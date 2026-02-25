@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhiming Liu"
-description              : "Undergraduate researcher in Trustworthy Multimodal AI and Adaptive, Data-Efficient Learning."
+# description              : "Undergraduate researcher in Trustworthy Multimodal AI and Adaptive, Data-Efficient Learning."
 repository               : "MIKUZ12/MIKUZ12.github.io"
 google_scholar_stats_use_cdn : true
 

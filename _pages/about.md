@@ -24,6 +24,7 @@ My recent research focuses on robust and reliable multimodal model adaptation un
 # 🔥 News
 - *2026.02*: &nbsp;🎉 Two papers accepted to **CVPR 2026 Findings**.
 - *2026.02*: &nbsp;🎉 [Do All Individual Layers Help?](https://arxiv.org/abs/2602.01167) and [Test-Time Distillation for Continual Model Adaptation](http://arxiv.org/abs/2506.02671) are accepted by CVPR 2026 Findings.
+- *2025.11*: &nbsp;🎉 Recognized as one of the 'Top Ten Outstanding College Students' at Harbin Institute of Technology(Shenzhen)
 
 # 📝 Publications 
 
@@ -49,9 +50,22 @@ Xiao Chen, Jiazhen Huang, **Zhiming Liu**, Qinting Jiang, Fanding Huang, Jingyan
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/adrl.png' alt="paper-1" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Adaptive Disentangled Representation Learning for Incomplete Multi-View Multi-Label Classification](https://arxiv.org/abs/2601.05785)
+
+Quanjiang Li, **Zhiming Liu**, TianxiangXu, Tingjin Luo, Chenping Hou
+
+- We proposed *ADRL*, a novel framework that jointly addresses structural distortion and semantic ambiguity in incomplete multi-view settings by integrating label-guided feature disentanglement and category-aware embedding interaction.
+</div>
+</div>
+
 # 🎖 Honors and Awards
-- *2024*: Chinese National Scholarship
-- *2025*: Top Ten Outstanding College Students of Harbin Institute of Technology (Shenzhen)
+- *2024*: Finalist Award in the Mathematical Contest in Modeling (MCM)
+- *2024*: **Chinese National Scholarship**
+- *2025*: National Second Prize, Global Campus Artificial Intelligence Algorithm Elite Competition 2026
+- *2025*: **Top Ten Outstanding College Students of Harbin Institute of Technology (Shenzhen)**
 
 # 📖 Educations
 - *Sep. 2023 - Jul. 2027*, **Harbin Institute of Technology (Shenzhen)**, B.Eng. in Autonomous.
