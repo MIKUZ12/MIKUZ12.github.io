@@ -51,11 +51,10 @@ Xiao Chen, Jiazhen Huang, **Zhiming Liu**, Qinting Jiang, Fanding Huang, Jingyan
 
 # 🎖 Honors and Awards
 - *2024*: Chinese National Scholarship
-- *2024*: Top Ten Outstanding College Students of Harbin Institute of Technology (Shenzhen)
+- *2025*: Top Ten Outstanding College Students of Harbin Institute of Technology (Shenzhen)
 
 # 📖 Educations
 - *Sep. 2023 - Jul. 2027*, **Harbin Institute of Technology (Shenzhen)**, B.Eng. in Autonomous.
-  GPA: 3.97/4.00 (Rank 1/177), Average Score: 93.85/100 (Rank 3/177).
 
 # 🔬 Research Experience
 - *May. 2025 - Nov. 2025*, **Task-Interfering Layer Optimization for Test-Time Adaptation of Multimodal Large Language Models** (Leader).
