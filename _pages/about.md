@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an undergraduate student at Harbin Institute of Technology (Shenzhen), working on **Trustworthy Multimodal AI** and **Adaptive, Data-Efficient Learning**.
+Hi, There👋! I am an undergraduate student at Harbin Institute of Technology (Shenzhen), working on **Trustworthy Multimodal AI** and **Adaptive, Data-Efficient Learning**.
 My recent research focuses on robust and reliable multimodal model adaptation under distribution shift, especially for test-time adaptation and hallucination mitigation in vision-language systems.
 
 
