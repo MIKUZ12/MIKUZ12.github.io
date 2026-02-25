@@ -22,10 +22,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Zhiming Liu"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/profile.PNG"
   bio              : "B.Eng. Student, Harbin Institute of Technology (Shenzhen)"
   location         : "Shenzhen, China"
-  employer         : "Harbin Institute of Technology (Shenzhen)"
   pubmed           : 
   googlescholar    :
   email            : "2023312314@stu.hit.edu.cn"

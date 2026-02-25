@@ -27,18 +27,18 @@ My recent research focuses on robust and reliable multimodal model adaptation un
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR Findings 2026</div><img src='images/500x300.png' alt="paper-1" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR Findings 2026</div><img src='images/talo.png' alt="paper-1" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Do All Individual Layers Help? An Empirical Study of Task-Interfering Layers in Vision-Language Models](https://arxiv.org/abs/2602.01167)
 
-**Zhiming Liu**, Yujie Wei, Lei Feng, Xiu Su, Xiaobo Xia, Xiu Su, Weili Guan, Zeke Xie, Shuo Yang
+**Zhiming Liu**, Yujie Wei, Lei Feng, Xiu Su, Xiaobo Xia, Weili Guan, Zeke Xie, Shuo Yang
 
 - We identify task-interfering layers in vision-language models and propose a lightweight test-time intervention strategy that improves downstream few-shot reasoning without retraining.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR Findings 2026</div><img src='images/500x300.png' alt="paper-2" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR Findings 2026</div><img src='images/ttd.png' alt="paper-2" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Test-Time Distillation for Continual Model Adaptation](http://arxiv.org/abs/2506.02671)
