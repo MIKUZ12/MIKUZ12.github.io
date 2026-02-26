@@ -55,7 +55,7 @@ Xiao Chen, Jiazhen Huang, **Zhiming Liu**, Qinting Jiang, Fanding Huang, Jingyan
 
 [Adaptive Disentangled Representation Learning for Incomplete Multi-View Multi-Label Classification](https://arxiv.org/abs/2601.05785)
 
-Quanjiang Li<sup>†</sup>, **Zhiming Liu**<sup>†</sup>, TianxiangXu, Tingjin Luo, Chenping Hou
+Quanjiang Li<sup>†</sup>, **Zhiming Liu**<sup>†</sup>, TianxiangXu<sup>†</sup>, Tingjin Luo, Chenping Hou
 
 - We proposed *ADRL*, a novel framework that jointly addresses structural distortion and semantic ambiguity in incomplete multi-view settings by integrating label-guided feature disentanglement and category-aware embedding interaction.
 - <sup>†</sup> indicates equal contribution (co-first authors).
@@ -83,3 +83,4 @@ Quanjiang Li<sup>†</sup>, **Zhiming Liu**<sup>†</sup>, TianxiangXu, Tingjin 
 
 # 💻 Internships
 - *2025.03 - now*, **Research Intern at HITSZ**, advised by **Prof. Shuo Yang**.
+- *2025.11 - now*, **Research Intern at THU**, advised by **Prof. Zhi Wang**.

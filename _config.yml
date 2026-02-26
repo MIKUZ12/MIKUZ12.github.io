@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhiming Liu"
-# description              : "Undergraduate researcher in Trustworthy Multimodal AI and Adaptive, Data-Efficient Learning."
+description              : "A senior undergraduate student at Harbin Institute of Technology (Shenzhen)."
 repository               : "MIKUZ12/MIKUZ12.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhiming Liu"
   avatar           : "images/profile.PNG"
-  bio              : "B.Eng. Student, Harbin Institute of Technology (Shenzhen)"
+  bio              : "HITSZ"
   location         : "Shenzhen, China"
   pubmed           : 
   googlescholar    :
