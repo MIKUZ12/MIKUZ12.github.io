@@ -24,7 +24,7 @@ My recent research focuses on robust and reliable multimodal model adaptation un
 # 🔥 News
 - *2026.02*: &nbsp;🎉🎉 One papers "Do All Individual Layers Help?", was accepted by CVPR 2026 Findings.
 - *2026.02*: &nbsp;🎉🎉 One papers "Test-Time Distillation for Continual Model Adaptation", was accepted by CVPR 2026 Findings.
-- *2025.11*: &nbsp;🎉🎉 Recognized as one of the **'Top Ten Outstanding College Students'** at Harbin Institute of Technology(Shenzhen)
+- *2025.11*: &nbsp;🎉🎉 Recognized as one of the **'Top Ten Outstanding College Students'** at Harbin Institute of Technology (Shenzhen)
 
 # 📝 Publications 
 
