@@ -28,7 +28,7 @@ My recent research focuses on robust and reliable multimodal model adaptation un
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR Findings 2026</div><img src='images/talo.png' alt="paper-1" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/talo.png' alt="paper-1" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Do All Individual Layers Help? An Empirical Study of Task-Interfering Layers in Vision-Language Models](https://arxiv.org/abs/2602.01167)
@@ -39,7 +39,7 @@ My recent research focuses on robust and reliable multimodal model adaptation un
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR Findings 2026</div><img src='images/ttd.png' alt="paper-2" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/ttd.png' alt="paper-2" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Test-Time Distillation for Continual Model Adaptation](http://arxiv.org/abs/2506.02671)
