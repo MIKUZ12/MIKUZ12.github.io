@@ -22,9 +22,9 @@ My recent research focuses on robust and reliable multimodal model adaptation un
 
 
 # 🔥 News
-- *2026.02*: &nbsp;🎉 Two papers accepted to **CVPR 2026 Findings**.
-- *2026.02*: &nbsp;🎉 [Do All Individual Layers Help?](https://arxiv.org/abs/2602.01167) and [Test-Time Distillation for Continual Model Adaptation](http://arxiv.org/abs/2506.02671) are accepted by CVPR 2026 Findings.
-- *2025.11*: &nbsp;🎉 Recognized as one of the **'Top Ten Outstanding College Students'** at Harbin Institute of Technology(Shenzhen)
+- *2026.02*: &nbsp;🎉🎉 One papers "Do All Individual Layers Help?", was accepted by CVPR 2026 Findings.
+- *2026.02*: &nbsp;🎉🎉 One papers "Test-Time Distillation for Continual Model Adaptation", was accepted by CVPR 2026 Findings.
+- *2025.11*: &nbsp;🎉🎉 Recognized as one of the **'Top Ten Outstanding College Students'** at Harbin Institute of Technology(Shenzhen)
 
 # 📝 Publications 
 
@@ -65,7 +65,7 @@ Quanjiang Li<sup>†</sup>, **Zhiming Liu**<sup>†</sup>, TianxiangXu<sup>†</
 # 🎖 Honors and Awards
 - *2024*: Finalist Award in the Mathematical Contest in Modeling (MCM)
 - *2024*: **Chinese National Scholarship**
-- *2025*: National Second Prize, Global Campus Artificial Intelligence Algorithm Elite Competition 2026
+- *2025*: National Second Prize, Global Campus Artificial Intelligence Algorithm Elite Competition 2025
 - *2025*: **Top Ten Outstanding College Students of Harbin Institute of Technology (Shenzhen)**
 
 # 📖 Educations
