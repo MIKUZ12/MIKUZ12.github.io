@@ -44,7 +44,7 @@ My recent research focuses on robust and reliable multimodal model adaptation un
 
 [Test-Time Distillation for Continual Model Adaptation](http://arxiv.org/abs/2506.02671)
 
-Xiao Chen, Jiazhen Huang, **Zhiming Liu**, Qinting Jiang, Fanding Huang, Jingyan Jiang, Zhi Wang
+Xiao Chen<sup>†</sup>, Jiazhen Huang<sup>†</sup>, **Zhiming Liu**, Qinting Jiang, Fanding Huang, Jingyan Jiang, Zhi Wang
 
 - We propose a collaborative test-time distillation framework for continual model adaptation that improves robustness and generalization under realistic distribution shifts.
 </div>
