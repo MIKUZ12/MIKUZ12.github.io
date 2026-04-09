@@ -17,16 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# <i class="fas fa-user section-icon" aria-hidden="true"></i> About Me
+
 Hi, There👋! I am an undergraduate student at Harbin Institute of Technology (Shenzhen), working on **Trustworthy Multimodal AI** and **Adaptive, Data-Efficient Learning**.
 My recent research focuses on robust and reliable multimodal model adaptation under distribution shift, especially for test-time adaptation and hallucination mitigation in vision-language systems.
 
 
-# 🔥 News
+# <i class="fas fa-newspaper section-icon" aria-hidden="true"></i> News
 - *2026.02*: &nbsp;🎉🎉 One paper "Do All Individual Layers Help?", was accepted by CVPR 2026 Findings.
 - *2026.02*: &nbsp;🎉🎉 One paper "Test-Time Distillation for Continual Model Adaptation", was accepted by CVPR 2026 Findings.
 - *2025.11*: &nbsp;🎉🎉 Recognized as one of the **'Top Ten Outstanding College Students'** at Harbin Institute of Technology (Shenzhen)
 
-# 📝 Publications 
+# <i class="fas fa-book-open section-icon" aria-hidden="true"></i> Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/talo.png' alt="paper-1" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
