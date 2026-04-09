@@ -263,7 +263,7 @@ body,
 }
 
 .sidebar .author__name {
-    margin: 0;
+    margin: 0 0 0.45rem;
     color: #3f433f;
     font-size: clamp(1.75rem, 2.2vw, 2.35rem);
     font-weight: 700;
@@ -272,7 +272,7 @@ body,
 }
 
 .author__bio {
-    margin: 0;
+    margin: 0.15rem 0 0;
     color: #8f826e;
     font-size: 0.96rem;
     font-weight: 500;
