@@ -24,9 +24,9 @@ My recent research focuses on robust and reliable multimodal model adaptation un
 
 
 # <i class="fas fa-newspaper section-icon" aria-hidden="true"></i> News
-- *2026.02*: &nbsp;🎉🎉 One paper "Do All Individual Layers Help?", was accepted by CVPR 2026 Findings.
-- *2026.02*: &nbsp;🎉🎉 One paper "Test-Time Distillation for Continual Model Adaptation", was accepted by CVPR 2026 Findings.
-- *2025.11*: &nbsp;🎉🎉 Recognized as one of the **'Top Ten Outstanding College Students'** at Harbin Institute of Technology (Shenzhen)
+- 2026.02: &nbsp;🎉🎉 One paper "Do All Individual Layers Help?", was accepted by CVPR 2026 Findings.
+- 2026.02: &nbsp;🎉🎉 One paper "Test-Time Distillation for Continual Model Adaptation", was accepted by CVPR 2026 Findings.
+- 2025.11: &nbsp;🎉🎉 Recognized as one of the **'Top Ten Outstanding College Students'** at Harbin Institute of Technology (Shenzhen)
 
 # <i class="fas fa-book-open section-icon" aria-hidden="true"></i> Publications
 
@@ -71,18 +71,18 @@ Quanjiang Li<sup>†</sup>, **Zhiming Liu**<sup>†</sup>, TianxiangXu<sup>†</
 - *2025*: **Top Ten Outstanding College Students of Harbin Institute of Technology (Shenzhen)**
 
 # 📖 Educations
-- *Sep. 2023 - Jul. 2027*, **Harbin Institute of Technology (Shenzhen)**, B.Eng. in Autonomous.
+- Sep. 2023 - Jul. 2027, **Harbin Institute of Technology (Shenzhen)**, B.Eng. in Autonomous.
 
 # 🔬 Research Experience
-- *May. 2025 - Nov. 2025*, **Task-Interfering Layer Optimization for Test-Time Adaptation of Multimodal Large Language Models** (Leader).
-- *Nov. 2025 - Jan. 2026*, **Correcting Visual Blur Induced by Attention Distraction to Reduce Hallucinations: Algorithm and Theory** (Leader).
-- *Jan. 2025 - Jun. 2025*, **Adaptive Disentangled Representation Learning for Incomplete Multi-View Multi-Label Classification** (Leader).
-- *Aug. 2025 - Nov. 2025*, **CoDiRe: Collaborative Test-Time Distillation for Robust Domain Generalization** (Core Member).
-- *Nov. 2025 - Jan. 2026*, **Von Mises-Fisher Mixture Model with Dynamic Shrinkage for Realistic Test-Time Transduction** (Core Member).
-- *Aug. 2025 - Jan. 2026*, **Multimodal Large Language Models for Industrial Quality Inspection** (Core Member).
-- *Dec. 2024 - Nov. 2025*, **AI-Powered Microscopic Parasite Recognition and Extraction System** (Core Member).
-- *Sep. 2025 - Dec. 2025*, **Deterministic Transition State Prediction via Flow Matching and Equivariant Geometric Learning** (Core Developer).
+- May. 2025 - Nov. 2025, **Task-Interfering Layer Optimization for Test-Time Adaptation of Multimodal Large Language Models** (Leader).
+- Nov. 2025 - Jan. 2026, **Correcting Visual Blur Induced by Attention Distraction to Reduce Hallucinations: Algorithm and Theory** (Leader).
+- Jan. 2025 - Jun. 2025, **Adaptive Disentangled Representation Learning for Incomplete Multi-View Multi-Label Classification** (Leader).
+- Aug. 2025 - Nov. 2025, **CoDiRe: Collaborative Test-Time Distillation for Robust Domain Generalization** (Core Member).
+- Nov. 2025 - Jan. 2026, **Von Mises-Fisher Mixture Model with Dynamic Shrinkage for Realistic Test-Time Transduction** (Core Member).
+- Aug. 2025 - Jan. 2026, **Multimodal Large Language Models for Industrial Quality Inspection** (Core Member).
+- Dec. 2024 - Nov. 2025, **AI-Powered Microscopic Parasite Recognition and Extraction System** (Core Member).
+- Sep. 2025 - Dec. 2025, **Deterministic Transition State Prediction via Flow Matching and Equivariant Geometric Learning** (Core Developer).
 
 # 💻 Internships
-- *2025.03 - now*, **Research Intern at HITSZ**, advised by **Prof. Shuo Yang**.
-- *2025.11 - now*, **Research Intern at THU**, advised by **Prof. Zhi Wang**.
+- 2025.03 - now, **Research Intern at HITSZ**, advised by **Prof. Shuo Yang**.
+- 2025.11 - now, **Research Intern at THU**, advised by **Prof. Zhi Wang**.
