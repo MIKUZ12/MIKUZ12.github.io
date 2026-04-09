@@ -65,10 +65,10 @@ Quanjiang Li<sup>†</sup>, **Zhiming Liu**<sup>†</sup>, TianxiangXu<sup>†</
 </div>
 
 # 🎖 Honors and Awards
-- *2024*: Finalist Award in the Mathematical Contest in Modeling (MCM)
-- *2024*: **Chinese National Scholarship**
-- *2025*: National Second Prize, Global Campus Artificial Intelligence Algorithm Elite Competition 2025
-- *2025*: **Top Ten Outstanding College Students of Harbin Institute of Technology (Shenzhen)**
+- 2024: Finalist Award in the Mathematical Contest in Modeling (MCM)
+- 2024: **Chinese National Scholarship**
+- 2025: National Second Prize, Global Campus Artificial Intelligence Algorithm Elite Competition 2025
+- 2025: **Top Ten Outstanding College Students of Harbin Institute of Technology (Shenzhen)**
 
 # 📖 Educations
 - Sep. 2023 - Jul. 2027, **Harbin Institute of Technology (Shenzhen)**, B.Eng. in Autonomous.
