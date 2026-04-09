@@ -43,3 +43,19 @@
     updateActiveLink();
   });
 })();
+
+(function () {
+  document.addEventListener('DOMContentLoaded', function () {
+    var socialLinks = Array.prototype.slice.call(document.querySelectorAll('.author__social-link'));
+    if (!socialLinks.length) return;
+
+    socialLinks.forEach(function (link) {
+      link.addEventListener('click', function () {
+        socialLinks.forEach(function (item) {
+          item.classList.remove('is-selected');
+        });
+        link.classList.add('is-selected');
+      });
+    });
+  });
+})();

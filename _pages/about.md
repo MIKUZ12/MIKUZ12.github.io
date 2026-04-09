@@ -70,7 +70,7 @@ Quanjiang Li<sup>†</sup>, **Zhiming Liu**<sup>†</sup>, TianxiangXu<sup>†</
 - 2025: National Second Prize, Global Campus Artificial Intelligence Algorithm Elite Competition 2025
 - 2025: **Top Ten Outstanding College Students of Harbin Institute of Technology (Shenzhen)**
 
-# <i class="fas fa-book-open section-icon" aria-hidden="true"></i> Educations
+# <i class="fas fa-graduation-cap section-icon" aria-hidden="true"></i> Educations
 - Sep. 2023 - Jul. 2027, **Harbin Institute of Technology (Shenzhen)**, B.Eng. in Autonomous.
 
 # <i class="fas fa-microscope section-icon" aria-hidden="true"></i> Research Project
@@ -86,7 +86,8 @@ Quanjiang Li<sup>†</sup>, **Zhiming Liu**<sup>†</sup>, TianxiangXu<sup>†</
 > **Von Mises-Fisher Mixture Model with Dynamic Shrinkage for Realistic Test-Time Transduction** (Core Member).
 - Aug. 2025 - Jan. 2026, 
 > **Multimodal Large Language Models for Industrial Quality Inspection** (Core Member).
-- Dec. 2024 - Nov. 2025, **AI-Powered Microscopic Parasite Recognition and Extraction System** (Core Member).
+- Dec. 2024 - Nov. 2025, 
+> **AI-Powered Microscopic Parasite Recognition and Extraction System** (Core Member).
 - Sep. 2025 - Dec. 2025, 
 > **Deterministic Transition State Prediction via Flow Matching and Equivariant Geometric Learning** (Core Developer).
 
