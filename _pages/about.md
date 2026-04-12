@@ -20,8 +20,10 @@ redirect_from:
 # <i class="fas fa-user section-icon" aria-hidden="true"></i> About Me
 
 Hi, There👋! I am an undergraduate student at Harbin Institute of Technology (Shenzhen), working on **Trustworthy Multimodal AI** and **Adaptive, Data-Efficient Learning**. 
-My recent research focuses on robust and reliable multimodal model adaptation under distribution shift, especially for test-time adaptation and hallucination mitigation in vision-language systems.
-I am currently diving into world models and embodied AI, aiming to help build more intelligent and capable robotic systems.
+
+My previous research focuses on robust and reliable multimodal model adaptation under distribution shift, especially for test-time adaptation and hallucination mitigation in vision-language systems.
+
+I am currently diving into **world models and embodied AI**, aiming to help build more intelligent and capable robotic systems.
 
 # <i class="fas fa-newspaper section-icon" aria-hidden="true"></i> News
 - 2026.02: &nbsp;🎉🎉 One paper "Do All Individual Layers Help?", was accepted by CVPR 2026 Findings.
