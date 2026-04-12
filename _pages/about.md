@@ -130,19 +130,8 @@ Quanjiang Li<sup>†</sup>, **Zhiming Liu**<sup>†</sup>, TianxiangXu<sup>†</
 
 
 # <i class="fas fa-briefcase section-icon" aria-hidden="true"></i> Experience
-<div class="resume-list resume-list--timeline">
-  <div class="resume-item resume-item--timeline">
-    <div class="resume-logo">
-      <img src="/images/hit.png" alt="Harbin Institute of Technology logo" class="resume-logo__image">
-    </div>
-    <div class="resume-content">
-      <div class="resume-title"><strong>Harbin Institute of Technology (Shenzhen)</strong></div>
-      <div class="resume-detail">Research Intern</div>
-      <div class="resume-note"><em>Advisor:</em> <strong>Prof. Shuo Yang</strong></div>
-      <div class="resume-period">March 2025 - Present</div>
-    </div>
-  </div>
 
+  <div class="resume-list resume-list--timeline">
   <div class="resume-item resume-item--timeline">
     <div class="resume-logo">
       <img src="/images/thu.png" alt="Tsinghua University logo" class="resume-logo__image">
@@ -150,8 +139,20 @@ Quanjiang Li<sup>†</sup>, **Zhiming Liu**<sup>†</sup>, TianxiangXu<sup>†</
     <div class="resume-content">
       <div class="resume-title"><strong>Tsinghua University</strong></div>
       <div class="resume-detail">Research Intern</div>
-      <div class="resume-note"><em>Advisor:</em> <strong>Prof. Zhi Wang</strong></div>
-      <div class="resume-period">November 2025 - Present</div>
+      <div class="resume-note"><strong>Advisor:</strong>  <strong>Prof. Zhi Wang</strong></div>
+      <div class="resume-period">November 2025 - April 2026</div>
+    </div>
+  </div>
+
+  <div class="resume-item resume-item--timeline">
+    <div class="resume-logo">
+      <img src="/images/hit.png" alt="Harbin Institute of Technology logo" class="resume-logo__image">
+    </div>
+    <div class="resume-content">
+      <div class="resume-title"><strong>Harbin Institute of Technology (Shenzhen)</strong></div>
+      <div class="resume-detail">Research Intern</div>
+      <div class="resume-note"><strong>Advisor:</strong>  <strong>Prof. Shuo Yang</strong></div>
+      <div class="resume-period">March 2025 - Present</div>
     </div>
   </div>
 </div>
