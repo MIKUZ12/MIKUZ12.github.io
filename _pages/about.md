@@ -70,6 +70,50 @@ Quanjiang Li<sup>†</sup>, **Zhiming Liu**<sup>†</sup>, TianxiangXu<sup>†</
 - 2025: National Second Prize, Global Campus Artificial Intelligence Algorithm Elite Competition 2025
 - 2025: **Top Ten Outstanding College Students of Harbin Institute of Technology (Shenzhen)**
 
+# <i class="fas fa-microscope section-icon" aria-hidden="true"></i> Research Project
+<div class="project-list">
+  <div class="project-item">
+    <div class="project-period">May 2025 - Nov 2025</div>
+    <div class="project-title">Task-Interfering Layer Optimization for Test-Time Adaptation of Multimodal Large Language Models</div>
+    <div class="project-role">Leader</div>
+  </div>
+  <div class="project-item">
+    <div class="project-period">Nov 2025 - Jan 2026</div>
+    <div class="project-title">Correcting Visual Blur Induced by Attention Distraction to Reduce Hallucinations: Algorithm and Theory</div>
+    <div class="project-role">Leader</div>
+  </div>
+  <div class="project-item">
+    <div class="project-period">Jan 2025 - Jun 2025</div>
+    <div class="project-title">Adaptive Disentangled Representation Learning for Incomplete Multi-View Multi-Label Classification</div>
+    <div class="project-role">Leader</div>
+  </div>
+  <div class="project-item">
+    <div class="project-period">Aug 2025 - Nov 2025</div>
+    <div class="project-title">CoDiRe: Collaborative Test-Time Distillation for Robust Domain Generalization</div>
+    <div class="project-role">Core Member</div>
+  </div>
+  <div class="project-item">
+    <div class="project-period">Nov 2025 - Jan 2026</div>
+    <div class="project-title">Von Mises-Fisher Mixture Model with Dynamic Shrinkage for Realistic Test-Time Transduction</div>
+    <div class="project-role">Core Member</div>
+  </div>
+  <div class="project-item">
+    <div class="project-period">Aug 2025 - Jan 2026</div>
+    <div class="project-title">Multimodal Large Language Models for Industrial Quality Inspection</div>
+    <div class="project-role">Core Member</div>
+  </div>
+  <div class="project-item">
+    <div class="project-period">Dec 2024 - Nov 2025</div>
+    <div class="project-title">AI-Powered Microscopic Parasite Recognition and Extraction System</div>
+    <div class="project-role">Core Member</div>
+  </div>
+  <div class="project-item">
+    <div class="project-period">Sep 2025 - Dec 2025</div>
+    <div class="project-title">Deterministic Transition State Prediction via Flow Matching and Equivariant Geometric Learning</div>
+    <div class="project-role">Core Developer</div>
+  </div>
+</div>
+
 # <i class="fas fa-graduation-cap section-icon" aria-hidden="true"></i> Educations
 <div class="resume-list resume-list--education">
   <div class="resume-item">

@@ -371,6 +371,48 @@ body,
     margin: 0.95rem 0 0;
 }
 
+.project-list {
+    display: grid;
+    gap: 0.9rem;
+    margin: 1rem 0 0;
+}
+
+.project-item {
+    padding: 0.9rem 1rem;
+    border-radius: 16px;
+    background: rgba(255, 255, 255, 0.6);
+    border: 1px solid rgba(200, 125, 94, 0.12);
+    box-shadow: 0 8px 24px rgba(170, 135, 110, 0.06);
+}
+
+.project-period {
+    color: #c87d5e;
+    font-size: 0.92rem;
+    font-weight: 600;
+    line-height: 1.35;
+}
+
+.project-title {
+    margin-top: 0.22rem;
+    color: #3f433f;
+    font-size: 1.02rem;
+    font-weight: 600;
+    line-height: 1.45;
+}
+
+.project-role {
+    display: inline-flex;
+    align-items: center;
+    margin-top: 0.55rem;
+    padding: 0.18rem 0.58rem;
+    border-radius: 999px;
+    background: rgba(200, 125, 94, 0.12);
+    color: #9f6a54;
+    font-size: 0.84rem;
+    font-weight: 600;
+    line-height: 1.2;
+}
+
 .resume-item {
     display: flex;
     align-items: flex-start;
@@ -432,39 +474,48 @@ body,
 
 .resume-list--timeline {
     position: relative;
-    padding-left: 0.55rem;
+    padding-left: 0;
 }
 
 .resume-list--timeline::before {
     content: "";
     position: absolute;
-    left: 0.72rem;
-    top: 0.4rem;
-    bottom: 0.4rem;
-    width: 3px;
-    background: linear-gradient(to bottom, rgba(200, 125, 94, 0.55), rgba(200, 125, 94, 0.2));
+    left: 1.1rem;
+    top: 0.35rem;
+    bottom: 0.55rem;
+    width: 2px;
+    background: linear-gradient(to bottom, rgba(200, 125, 94, 0.5), rgba(200, 125, 94, 0.22));
 }
 
 .resume-item--timeline {
     position: relative;
-    gap: 1.55rem;
+    gap: 1.15rem;
+    padding-left: 2.7rem;
 }
 
 .resume-item--timeline::before {
     content: "";
     position: absolute;
-    left: -0.05rem;
-    top: 1.7rem;
-    width: 14px;
-    height: 14px;
+    left: 0.66rem;
+    top: 1.15rem;
+    width: 10px;
+    height: 10px;
     border-radius: 50%;
     background: #c87d5e;
-    box-shadow: 0 0 0 6px #faf9f7;
+    box-shadow: 0 0 0 4px #faf9f7;
 }
 
 @media (max-width: 768px) {
     .resume-item {
         gap: 1rem;
+    }
+
+    .project-item {
+        padding: 0.8rem 0.85rem;
+    }
+
+    .project-title {
+        font-size: 0.95rem;
     }
 
     .resume-logo {
@@ -485,6 +536,15 @@ body,
     }
 
     .resume-item--timeline::before {
-        top: 1.35rem;
+        left: 0.74rem;
+        top: 1rem;
+    }
+
+    .resume-list--timeline::before {
+        left: 1.05rem;
+    }
+
+    .resume-item--timeline {
+        padding-left: 2.45rem;
     }
 }
