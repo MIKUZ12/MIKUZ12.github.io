@@ -29,6 +29,8 @@ I am currently diving into **world models and embodied AI**, aiming to help buil
 - 2026.02: &nbsp;🎉🎉 One paper "Do All Individual Layers Help?", was accepted by CVPR 2026 Findings.
 - 2026.02: &nbsp;🎉🎉 One paper "Test-Time Distillation for Continual Model Adaptation", was accepted by CVPR 2026 Findings.
 - 2025.11: &nbsp;🎉🎉 Recognized as one of the **'Top Ten Outstanding College Students'** at Harbin Institute of Technology (Shenzhen)
+- 2025.10: &nbsp;🎉 Awarded the **First Prize Scholarship** at Harbin Institute of Technology (Shenzhen).
+- 2024.10: &nbsp;🎉 Awarded the **First Prize Scholarship** at Harbin Institute of Technology (Shenzhen).
 
 # <i class="fas fa-book-open section-icon" aria-hidden="true"></i> Publications
 
@@ -97,6 +99,11 @@ Quanjiang Li<sup>†</sup>, **Zhiming Liu**<sup>†</sup>, TianxiangXu<sup>†</
   <div class="project-item">
     <div class="project-period">Nov 2025 - Jan 2026</div>
     <div class="project-title">Von Mises-Fisher Mixture Model with Dynamic Shrinkage for Realistic Test-Time Transduction</div>
+    <div class="project-role">Core Member</div>
+  </div>
+  <div class="project-item">
+    <div class="project-period">Feb 2026 - Apr 2026</div>
+    <div class="project-title">TouchAnything: Dataset and Framework for Bimanual Tactile Estimation from Egocentric Video</div>
     <div class="project-role">Core Member</div>
   </div>
   <div class="project-item">
