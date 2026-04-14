@@ -134,17 +134,6 @@ Quanjiang Li<sup>†</sup>, **Zhiming Liu**<sup>†</sup>, TianxiangXu<sup>†</
 # <i class="fas fa-briefcase section-icon" aria-hidden="true"></i> Experience
 
   <div class="resume-list resume-list--timeline">
-  <div class="resume-item resume-item--timeline">
-    <div class="resume-logo">
-      <img src="/images/hkust.png" alt="HKUST logo" class="resume-logo__image">
-    </div>
-    <div class="resume-content">
-      <div class="resume-title"><strong>The Hong Kong University of Science and Technology</strong></div>
-      <div class="resume-detail">Visiting Student</div>
-      <div class="resume-note"><strong>Advisor:</strong>  <strong>Prof. Song Guo</strong></div>
-      <div class="resume-period">April 2026 - Present</div>
-    </div>
-  </div>
 
   <div class="resume-item resume-item--timeline">
     <div class="resume-logo">
