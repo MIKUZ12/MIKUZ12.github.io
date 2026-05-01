@@ -199,7 +199,7 @@ Quanjiang Li<sup>†</sup>, **Zhiming Liu**<sup>†</sup>, TianxiangXu<sup>†</
       <div class="resume-title"><strong>Harbin Institute of Technology (Shenzhen)</strong></div>
       <div class="resume-detail">Research Intern</div>
       <div class="resume-note"><strong>Advisor:</strong>  <strong>Prof. Shuo Yang</strong></div>
-      <div class="resume-period">March 2025 - Present</div>
+      <div class="resume-period">March 2025 - April 2026</div>
     </div>
   </div>
 </div>
