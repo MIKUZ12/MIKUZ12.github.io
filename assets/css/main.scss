@@ -91,7 +91,7 @@
 
 .paper-box--afip,
 .paper-box--moon {
-    align-items: flex-start;
+    align-items: center;
 }
 
 .paper-box--afip .paper-box-image img,
@@ -101,28 +101,18 @@
 }
 
 .paper-box--afip .paper-box-image img {
-    max-height: 260px;
+    max-height: 340px;
     width: auto;
 }
 
 .paper-box--moon .paper-box-image img {
-    max-height: 180px;
+    max-height: 210px;
 }
 
 @include breakpoint($medium) {
     .paper-box--afip .paper-box-text,
     .paper-box--moon .paper-box-text {
         padding-top: 0.15rem;
-    }
-
-    .paper-box--afip .paper-box-image,
-    .paper-box--moon .paper-box-image {
-        max-width: 36%;
-    }
-
-    .paper-box--afip .paper-box-text,
-    .paper-box--moon .paper-box-text {
-        max-width: 64%;
     }
 }
 
