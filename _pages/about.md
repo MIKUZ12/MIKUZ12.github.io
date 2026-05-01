@@ -26,13 +26,37 @@ My previous research focuses on robust and reliable multimodal model adaptation 
 I am currently diving into **world models and embodied AI**, aiming to help build more intelligent and capable robotic systems.
 
 # <i class="fas fa-newspaper section-icon" aria-hidden="true"></i> News
+- 2026.05: &nbsp;🎉🎉 One paper "Correcting Visual Blur Induced by Attention Distraction to Reduce Hallucinations: Algorithm and Theory", was accepted by ICML 2026.
+- 2026.05: &nbsp;🎉🎉 One paper "Von Mises-Fisher Mixture Model with Dynamic Shrinkage for Realistic Test-Time Transduction", was accepted by ICML 2026.
 - 2026.02: &nbsp;🎉🎉 One paper "Do All Individual Layers Help?", was accepted by CVPR 2026 Findings.
 - 2026.02: &nbsp;🎉🎉 One paper "Test-Time Distillation for Continual Model Adaptation", was accepted by CVPR 2026 Findings.
 - 2025.11: &nbsp;🎉🎉 Recognized as one of the **'Top Ten Outstanding College Students'** at Harbin Institute of Technology (Shenzhen)
-- 2025.10: &nbsp;🎉 Awarded the **First Prize Scholarship** at Harbin Institute of Technology (Shenzhen).
-- 2024.10: &nbsp;🎉 Awarded the **First Prize Scholarship** at Harbin Institute of Technology (Shenzhen).
+- 2024.10: &nbsp;🎉🎉 Awarded the **Chinese National Scholarship**.
 
 # <i class="fas fa-book-open section-icon" aria-hidden="true"></i> Publications
+
+<div class='paper-box paper-box--afip'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/afip.png' alt="AFIP overview" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Correcting Visual Blur Induced by Attention Distraction to Reduce Hallucinations: Algorithm and Theory**
+
+Quanjiang Li<sup>†</sup>, **Zhiming Liu**<sup>†</sup>, Wei Luo, Tingjin Luo, Chenping Hou
+
+- We identify the link between human-like attention distraction and object hallucinations in multimodal models, and propose AFIP, a training-free method that corrects spatial and temporal attention dispersion to enhance visual grounding without additional training.
+- <sup>†</sup> indicates equal contribution (co-first authors).
+</div>
+</div>
+
+<div class='paper-box paper-box--moon'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/moon.png' alt="MOON overview" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Von Mises-Fisher Mixture Model with Dynamic Shrinkage for Realistic Test-Time Transduction**
+
+Jiazhen Huang, Zhiming Liu, Changhu Wang, Wei Ju, Ziyue Qiao, Xiao Luo
+
+- We identify the brittleness of transductive methods under imbalanced distributions and propose MOON, a training-free, model-agnostic framework that dynamically adjusts shrinkage strength to mitigate negative transfer and enhance VLM performance without retraining.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/talo.png' alt="paper-1" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -53,6 +77,7 @@ I am currently diving into **world models and embodied AI**, aiming to help buil
 Xiao Chen<sup>†</sup>, Jiazhen Huang<sup>†</sup>, **Zhiming Liu**, Qinting Jiang, Fanding Huang, Jingyan Jiang, Zhi Wang
 
 - We propose a collaborative test-time distillation framework for continual model adaptation that improves robustness and generalization under realistic distribution shifts.
+- <sup>†</sup> indicates equal contribution (co-first authors).
 </div>
 </div>
 
@@ -71,8 +96,10 @@ Quanjiang Li<sup>†</sup>, **Zhiming Liu**<sup>†</sup>, TianxiangXu<sup>†</
 # <i class="fas fa-award section-icon" aria-hidden="true"></i> Honors and Awards
 - 2024: Finalist Award in the Mathematical Contest in Modeling (MCM)
 - 2024: **Chinese National Scholarship**
+- 2024: First Prize Scholarship at Harbin Institute of Technology (Shenzhen)
 - 2025: National Second Prize, Global Campus Artificial Intelligence Algorithm Elite Competition 2025
 - 2025: **Top Ten Outstanding College Students of Harbin Institute of Technology (Shenzhen)**
+- 2025: First Prize Scholarship at Harbin Institute of Technology (Shenzhen)
 
 # <i class="fas fa-microscope section-icon" aria-hidden="true"></i> Research Project
 <div class="project-list">

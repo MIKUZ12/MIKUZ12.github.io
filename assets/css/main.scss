@@ -65,6 +65,7 @@
     .paper-box-text{
         max-width: 100%;
         order: 1;
+        text-align: left;
     }
     
     @include breakpoint($medium) {
@@ -80,11 +81,49 @@
             padding-left: 2em;
             max-width: 60%;
             order: 2;
+            text-align: left;
         }
 
     }
 
 
+}
+
+.paper-box--afip,
+.paper-box--moon {
+    align-items: flex-start;
+}
+
+.paper-box--afip .paper-box-image img,
+.paper-box--moon .paper-box-image img {
+    object-fit: contain;
+    background: #fff;
+}
+
+.paper-box--afip .paper-box-image img {
+    max-height: 260px;
+    width: auto;
+}
+
+.paper-box--moon .paper-box-image img {
+    max-height: 180px;
+}
+
+@include breakpoint($medium) {
+    .paper-box--afip .paper-box-text,
+    .paper-box--moon .paper-box-text {
+        padding-top: 0.15rem;
+    }
+
+    .paper-box--afip .paper-box-image,
+    .paper-box--moon .paper-box-image {
+        max-width: 36%;
+    }
+
+    .paper-box--afip .paper-box-text,
+    .paper-box--moon .paper-box-text {
+        max-width: 64%;
+    }
 }
 
 $scroll_offset : 2em;
