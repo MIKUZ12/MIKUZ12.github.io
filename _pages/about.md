@@ -51,7 +51,7 @@ Quanjiang Li<sup>†</sup>, **Zhiming Liu**<sup>†</sup>, Wei Luo, Tingjin Luo,
 
 **Von Mises-Fisher Mixture Model with Dynamic Shrinkage for Realistic Test-Time Transduction**
 
-Jiazhen Huang, Zhiming Liu, Changhu Wang, Wei Ju, Ziyue Qiao, Xiao Luo
+Jiazhen Huang, **Zhiming Liu**, Changhu Wang, Wei Ju, Ziyue Qiao, Xiao Luo
 
 - We identify the brittleness of transductive methods under imbalanced distributions and propose MOON, a training-free, model-agnostic framework that dynamically adjusts shrinkage strength to mitigate negative transfer and enhance VLM performance without retraining.
 </div>
