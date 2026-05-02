@@ -29,8 +29,8 @@ I am currently diving into **world models and embodied AI**, aiming to help buil
 - 2026.05: &nbsp;🎉🎉 Two paper was accepted by **ICML 2026**, Congrats !! 🥳
 - 2026.02: &nbsp;🎉🎉 One paper "Do All Individual Layers Help?", was accepted by **CVPR 2026** Findings.
 - 2026.02: &nbsp;🎉🎉 One paper "Test-Time Distillation for Continual Model Adaptation", was accepted by **CVPR 2026** Findings.
-- 2025.11: &nbsp;🎉🎉 Recognized as one of the **'Top Ten Outstanding College Students'** at Harbin Institute of Technology (Shenzhen)
-- 2024.10: &nbsp;🎉🎉 Awarded the **Chinese National Scholarship**.
+- 2025.11:  &nbsp;🎉🎉 Recognized as one of the **'Top Ten Outstanding College Students'** at Harbin Institute of Technology (Shenzhen)
+- 2024.10:  &nbsp;🎉🎉 Awarded the **Chinese National Scholarship**.
 
 # <i class="fas fa-book-open section-icon" aria-hidden="true"></i> Publications
 
