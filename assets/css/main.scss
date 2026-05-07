@@ -402,16 +402,41 @@ body,
 
 .project-list {
     display: grid;
-    gap: 0.9rem;
+    grid-auto-flow: column;
+    grid-auto-columns: calc((100% - 1rem) / 2);
+    gap: 1rem;
     margin: 1rem 0 0;
+    padding: 0.15rem 0 1rem;
+    overflow-x: auto;
+    overflow-y: hidden;
+    overscroll-behavior-x: contain;
+    scroll-snap-type: x mandatory;
+    scrollbar-width: thin;
+    scrollbar-color: rgba(200, 125, 94, 0.45) rgba(200, 125, 94, 0.1);
+}
+
+.project-list::-webkit-scrollbar {
+    height: 8px;
+}
+
+.project-list::-webkit-scrollbar-track {
+    background: rgba(200, 125, 94, 0.1);
+    border-radius: 999px;
+}
+
+.project-list::-webkit-scrollbar-thumb {
+    background: rgba(200, 125, 94, 0.45);
+    border-radius: 999px;
 }
 
 .project-item {
+    min-height: 175px;
     padding: 0.9rem 1rem;
     border-radius: 16px;
     background: rgba(255, 255, 255, 0.6);
     border: 1px solid rgba(200, 125, 94, 0.12);
     box-shadow: 0 8px 24px rgba(170, 135, 110, 0.06);
+    scroll-snap-align: start;
 }
 
 .project-period {
@@ -540,7 +565,13 @@ body,
     }
 
     .project-item {
+        min-height: 155px;
         padding: 0.8rem 0.85rem;
+    }
+
+    .project-list {
+        grid-auto-columns: min(88%, 360px);
+        gap: 0.85rem;
     }
 
     .project-title {
