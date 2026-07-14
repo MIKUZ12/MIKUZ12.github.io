@@ -32,7 +32,23 @@ I am currently diving into **world models and embodied AI**, aiming to help buil
 - 2025.11:  &nbsp;🎉🎉 Recognized as one of the **'Top Ten Outstanding College Students'** at Harbin Institute of Technology (Shenzhen)
 - 2024.10:  &nbsp;🎉🎉 Awarded the **Chinese National Scholarship**.
 
+
+
+
 # <i class="fas fa-book-open section-icon" aria-hidden="true"></i> Publications
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/ttabc.png' alt="TTABC overview" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[What Drives Test-Time Adaptation for CLIP? A Controlled Empirical Study from a Update Perspective](https://arxiv.org/pdf/2606.14299)
+
+Jiazhen Huang<sup>†</sup>, Xiao Chen<sup>†</sup>, **Zhiming Liu**<sup>†</sup>, Yaru Sun, Jingyan Jiang, Zhi Wang
+
+- We show that adaptation gains primarily arise from test-time evidence and reliable proxies rather than heavy optimization, and the most effective adaptation paradigm varies with the type of distribution shift.
+</div>
+</div>
+
 
 <div class='paper-box paper-box--afip'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/afip.png' alt="AFIP overview" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -54,6 +70,7 @@ Quanjiang Li<sup>†</sup>, **Zhiming Liu**<sup>†</sup>, Wei Luo, Tingjin Luo,
 Jiazhen Huang, **Zhiming Liu**, Changhu Wang, Wei Ju, Ziyue Qiao, Xiao Luo
 
 - We identify the brittleness of transductive methods under imbalanced distributions and propose MOON, a training-free, model-agnostic framework that dynamically adjusts shrinkage strength to mitigate negative transfer and enhance VLM performance without retraining.
+
 </div>
 </div>
 
