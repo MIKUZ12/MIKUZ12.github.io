@@ -19,14 +19,14 @@
           <i class="fas fa-envelope" aria-hidden="true"></i>
         </a>
       {% endif %}
-      {% if author.googlescholar %}
-        <a class="author__social-link" href="{{ author.googlescholar }}" target="_blank" rel="noopener" aria-label="Google Scholar">
-          <i class="fas fa-graduation-cap" aria-hidden="true"></i>
-        </a>
-      {% endif %}
       {% if author.github %}
         <a class="author__social-link" href="https://github.com/{{ author.github }}" target="_blank" rel="noopener" aria-label="GitHub">
           <i class="fab fa-github" aria-hidden="true"></i>
+        </a>
+      {% endif %}
+      {% if author.googlescholar %}
+        <a class="author__social-link" href="{{ author.googlescholar }}" target="_blank" rel="noopener" aria-label="Google Scholar">
+          <i class="fas fa-graduation-cap" aria-hidden="true"></i>
         </a>
       {% endif %}
       {% if author.linkedin %}
@@ -34,9 +34,6 @@
           <i class="fab fa-linkedin" aria-hidden="true"></i>
         </a>
       {% endif %}
-      <a class="author__social-link" href="{{ '/feed.xml' | relative_url }}" aria-label="RSS Feed">
-        <i class="fas fa-rss" aria-hidden="true"></i>
-      </a>
     </div>
   </div>
 </div>
