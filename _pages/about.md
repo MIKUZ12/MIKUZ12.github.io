@@ -46,6 +46,7 @@ I am currently diving into **world models and embodied AI**, aiming to help buil
 Jiazhen Huang<sup>†</sup>, Xiao Chen<sup>†</sup>, **Zhiming Liu**<sup>†</sup>, Yaru Sun, Jingyan Jiang, Zhi Wang
 
 - We show that adaptation gains primarily arise from test-time evidence and reliable proxies rather than heavy optimization, and the most effective adaptation paradigm varies with the type of distribution shift.
+- <sup>†</sup> indicates equal contribution (co-first authors).
 </div>
 </div>
 
@@ -65,7 +66,8 @@ Quanjiang Li<sup>†</sup>, **Zhiming Liu**<sup>†</sup>, Wei Luo, Tingjin Luo,
 <div class='paper-box paper-box--moon'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/moon.png' alt="MOON overview" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Von Mises-Fisher Mixture Model with Dynamic Shrinkage for Realistic Test-Time Transduction**
+[Von Mises-Fisher Mixture Model with Dynamic Shrinkage for Realistic Test-Time Transduction](https://arxiv.org/abs/2607.15851v1)
+
 
 Jiazhen Huang, **Zhiming Liu**, Changhu Wang, Wei Ju, Ziyue Qiao, Xiao Luo
 
