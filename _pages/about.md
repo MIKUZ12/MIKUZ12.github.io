@@ -60,6 +60,23 @@ I am currently diving into **world models and embodied AI**, aiming to help buil
 
 # <i class="fas fa-book-open section-icon" aria-hidden="true"></i> Publications
 
+<div class="publication-card first-author">
+  <div class="publication-card__layout">
+    <img src="images/ttabc.png" alt="TTABC overview" class="pub-thumb">
+    <div class="pub-body">
+      <p class="pub-title"><strong>What Drives Test-Time Adaptation for CLIP? A Controlled Empirical Study from a Update Perspective</strong></p>
+      <p class="pub-authors"><i>Jiazhen Huang<sup>†</sup>, Xiao Chen<sup>†</sup>, <span class="self-author">Zhiming Liu</span><sup>†</sup>, Yaru Sun, Jingyan Jiang, Zhi Wang</i></p>
+      <p class="pub-desc">We show that adaptation gains primarily arise from test-time evidence and reliable proxies rather than heavy optimization, and the most effective adaptation paradigm varies with the type of distribution shift.</p>
+      <p class="pub-note"><sup>†</sup> indicates equal contribution (co-first authors).</p>
+      <div class="pub-meta-row">
+        <span class="pub-venue">Under Review</span>
+        <span class="pub-links"><a href="https://arxiv.org/pdf/2606.14299"><em>[arXiv]</em></a></span>
+        <span class="pub-links"><a href="https://github.com/walawalagoose/TTABC"><em>[code]</em></a></span>
+      </div>
+    </div>
+  </div>
+</div>
+
 <div class="publication-card first-author featured">
   <div class="publication-card__layout">
     <img src="images/afip.png" alt="AFIP overview" class="pub-thumb" style="object-fit: contain;">
@@ -72,6 +89,22 @@ I am currently diving into **world models and embodied AI**, aiming to help buil
         <span class="pub-venue">ICML 2026</span>
         <span class="pub-links"><a href="https://arxiv.org/abs/2605.24602"><em>[arXiv]</em></a></span>
         <span class="pub-links"><a href="https://github.com/MIKUZ12/AFIP"><em>[code]</em></a></span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="publication-card first-author">
+  <div class="publication-card__layout">
+    <img src="images/moon.png" alt="MOON overview" class="pub-thumb" style="object-fit: contain;">
+    <div class="pub-body">
+      <p class="pub-title"><strong>Von Mises-Fisher Mixture Model with Dynamic Shrinkage for Realistic Test-Time Transduction</strong></p>
+      <p class="pub-authors"><i>Jiazhen Huang, <span class="self-author">Zhiming Liu</span>, Changhu Wang, Wei Ju, Ziyue Qiao, Xiao Luo</i></p>
+      <p class="pub-desc">We identify the brittleness of transductive methods under imbalanced distributions and propose MOON, a training-free, model-agnostic framework that dynamically adjusts shrinkage strength to mitigate negative transfer.</p>
+      <div class="pub-meta-row">
+        <span class="pub-venue">ICML 2026</span>
+        <span class="pub-links"><a href="https://arxiv.org/abs/2607.15851v1"><em>[arXiv]</em></a></span>
+        <span class="pub-links"><a href="https://github.com/walawalagoose/MOON"><em>[code]</em></a></span>
       </div>
     </div>
   </div>
@@ -96,22 +129,6 @@ I am currently diving into **world models and embodied AI**, aiming to help buil
 
 <div class="publication-card first-author">
   <div class="publication-card__layout">
-    <img src="images/moon.png" alt="MOON overview" class="pub-thumb" style="object-fit: contain;">
-    <div class="pub-body">
-      <p class="pub-title"><strong>Von Mises-Fisher Mixture Model with Dynamic Shrinkage for Realistic Test-Time Transduction</strong></p>
-      <p class="pub-authors"><i>Jiazhen Huang, <span class="self-author">Zhiming Liu</span>, Changhu Wang, Wei Ju, Ziyue Qiao, Xiao Luo</i></p>
-      <p class="pub-desc">We identify the brittleness of transductive methods under imbalanced distributions and propose MOON, a training-free, model-agnostic framework that dynamically adjusts shrinkage strength to mitigate negative transfer.</p>
-      <div class="pub-meta-row">
-        <span class="pub-venue">ICML 2026</span>
-        <span class="pub-links"><a href="https://arxiv.org/abs/2607.15851v1"><em>[arXiv]</em></a></span>
-        <span class="pub-links"><a href="https://github.com/walawalagoose/MOON"><em>[code]</em></a></span>
-      </div>
-    </div>
-  </div>
-</div>
-
-<div class="publication-card first-author">
-  <div class="publication-card__layout">
     <img src="images/ttd.png" alt="TTD overview" class="pub-thumb">
     <div class="pub-body">
       <p class="pub-title"><strong>Test-Time Distillation for Continual Model Adaptation</strong></p>
@@ -122,23 +139,6 @@ I am currently diving into **world models and embodied AI**, aiming to help buil
         <span class="pub-venue">CVPR 2026</span>
         <span class="pub-links"><a href="http://arxiv.org/abs/2506.02671"><em>[arXiv]</em></a></span>
         <span class="pub-links"><a href="https://github.com/walawalagoose/TTD"><em>[code]</em></a></span>
-      </div>
-    </div>
-  </div>
-</div>
-
-<div class="publication-card first-author">
-  <div class="publication-card__layout">
-    <img src="images/ttabc.png" alt="TTABC overview" class="pub-thumb">
-    <div class="pub-body">
-      <p class="pub-title"><strong>What Drives Test-Time Adaptation for CLIP? A Controlled Empirical Study from a Update Perspective</strong></p>
-      <p class="pub-authors"><i>Jiazhen Huang<sup>†</sup>, Xiao Chen<sup>†</sup>, <span class="self-author">Zhiming Liu</span><sup>†</sup>, Yaru Sun, Jingyan Jiang, Zhi Wang</i></p>
-      <p class="pub-desc">We show that adaptation gains primarily arise from test-time evidence and reliable proxies rather than heavy optimization, and the most effective adaptation paradigm varies with the type of distribution shift.</p>
-      <p class="pub-note"><sup>†</sup> indicates equal contribution (co-first authors).</p>
-      <div class="pub-meta-row">
-        <span class="pub-venue">Under Review</span>
-        <span class="pub-links"><a href="https://arxiv.org/pdf/2606.14299"><em>[arXiv]</em></a></span>
-        <span class="pub-links"><a href="https://github.com/walawalagoose/TTABC"><em>[code]</em></a></span>
       </div>
     </div>
   </div>
