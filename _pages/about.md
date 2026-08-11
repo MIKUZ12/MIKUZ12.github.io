@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# <i class="fas fa-user section-icon" aria-hidden="true"></i> About Me
+{% include about-homepage-header.html %}
 
 Hi, There👋! I am an undergraduate student at Harbin Institute of Technology (Shenzhen), working on **Trustworthy Multimodal AI** and **Adaptive, Data-Efficient Learning**. 
 
@@ -25,99 +25,192 @@ My previous research focuses on robust and reliable multimodal model adaptation 
 
 I am currently diving into **world models and embodied AI**, aiming to help build more intelligent and capable robotic systems.
 
-# <i class="fas fa-newspaper section-icon" aria-hidden="true"></i> News
-- 2026.05: &nbsp;🎉🎉 Two paper were accepted by **ICML 2026**, Congrats !! 🥳
-- 2026.02: &nbsp;🎉🎉 One paper "Do All Individual Layers Help?", was accepted by **CVPR 2026** Findings.
-- 2026.02: &nbsp;🎉🎉 One paper "Test-Time Distillation for Continual Model Adaptation", was accepted by **CVPR 2026** Findings.
-- 2025.11:  &nbsp;🎉🎉 Recognized as one of the **'Top Ten Outstanding College Students'** at Harbin Institute of Technology (Shenzhen)
-- 2024.10:  &nbsp;🎉🎉 Awarded the **Chinese National Scholarship**.
-
-
-
+News
+----
+<section class="profile-list-section profile-list-section--news" aria-label="Latest news">
+  <ul class="profile-list">
+    <li class="profile-list__item">
+      <time class="profile-list__date" datetime="2026-05">May 2026</time>
+      <span class="profile-list__content">
+        <span class="profile-list__title">Two papers accepted by ICML 2026 🥳</span>
+        <span class="profile-list__meta">ICML 2026</span>
+      </span>
+    </li>
+    <li class="profile-list__item">
+      <time class="profile-list__date" datetime="2026-02">Feb 2026</time>
+      <span class="profile-list__content">
+        <span class="profile-list__title">Paper "Do All Individual Layers Help?" accepted</span>
+        <span class="profile-list__meta">CVPR 2026 Findings</span>
+      </span>
+    </li>
+    <li class="profile-list__item">
+      <time class="profile-list__date" datetime="2026-02">Feb 2026</time>
+      <span class="profile-list__content">
+        <span class="profile-list__title">Paper "Test-Time Distillation for Continual Model Adaptation" accepted</span>
+        <span class="profile-list__meta">CVPR 2026 Findings</span>
+      </span>
+    </li>
+    <li class="profile-list__item">
+      <time class="profile-list__date" datetime="2025-11">Nov 2025</time>
+      <span class="profile-list__content">
+        <span class="profile-list__title">Top Ten Outstanding College Students of HITSZ</span>
+        <span class="profile-list__meta">Harbin Institute of Technology (Shenzhen)</span>
+      </span>
+    </li>
+    <li class="profile-list__item">
+      <time class="profile-list__date" datetime="2024-10">Oct 2024</time>
+      <span class="profile-list__content">
+        <span class="profile-list__title">Chinese National Scholarship</span>
+        <span class="profile-list__meta">Scholarship</span>
+      </span>
+    </li>
+  </ul>
+</section>
 
 # <i class="fas fa-book-open section-icon" aria-hidden="true"></i> Publications
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/ttabc.png' alt="TTABC overview" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[What Drives Test-Time Adaptation for CLIP? A Controlled Empirical Study from a Update Perspective](https://arxiv.org/pdf/2606.14299)
-
-Jiazhen Huang<sup>†</sup>, Xiao Chen<sup>†</sup>, **Zhiming Liu**<sup>†</sup>, Yaru Sun, Jingyan Jiang, Zhi Wang
-
-- We show that adaptation gains primarily arise from test-time evidence and reliable proxies rather than heavy optimization, and the most effective adaptation paradigm varies with the type of distribution shift.
-- <sup>†</sup> indicates equal contribution (co-first authors).
-</div>
-</div>
-
-
-<div class='paper-box paper-box--afip'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/afip.png' alt="AFIP overview" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Correcting Visual Blur Induced by Attention Distraction to Reduce Hallucinations: Algorithm and Theory](https://arxiv.org/abs/2605.24602)
-
-Quanjiang Li<sup>†</sup>, **Zhiming Liu**<sup>†</sup>, Wei Luo, Tingjin Luo, Chenping Hou
-
-- We identify the link between human-like attention distraction and object hallucinations in multimodal models, and propose AFIP, a training-free method that corrects spatial and temporal attention dispersion to enhance visual grounding without additional training.
-- <sup>†</sup> indicates equal contribution (co-first authors).
-</div>
+<div class="publication-card first-author featured">
+  <div class="publication-card__layout">
+    <img src="images/afip.png" alt="AFIP overview" class="pub-thumb" style="object-fit: contain;">
+    <div>
+      <strong><a href="https://arxiv.org/abs/2605.24602">Correcting Visual Blur Induced by Attention Distraction to Reduce Hallucinations: Algorithm and Theory</a></strong><br>
+      <i style="font-size:13px;">Quanjiang Li<sup>†</sup>, <span class="self-author">Zhiming Liu</span><sup>†</sup>, Wei Luo, Tingjin Luo, Chenping Hou</i><br>
+      We identify the link between human-like attention distraction and object hallucinations in multimodal models, and propose AFIP, a training-free method that corrects spatial and temporal attention dispersion to enhance visual grounding without additional training.<br>
+      <sup>†</sup> indicates equal contribution (co-first authors).
+      <div class="pub-meta-row">
+        <span class="pub-venue">ICML 2026</span>
+        <span class="pub-links"><a href="https://arxiv.org/abs/2605.24602"><em>[arXiv]</em></a></span>
+      </div>
+    </div>
+  </div>
 </div>
 
-<div class='paper-box paper-box--moon'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/moon.png' alt="MOON overview" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Von Mises-Fisher Mixture Model with Dynamic Shrinkage for Realistic Test-Time Transduction](https://arxiv.org/abs/2607.15851v1)
-
-
-Jiazhen Huang, **Zhiming Liu**, Changhu Wang, Wei Ju, Ziyue Qiao, Xiao Luo
-
-- We identify the brittleness of transductive methods under imbalanced distributions and propose MOON, a training-free, model-agnostic framework that dynamically adjusts shrinkage strength to mitigate negative transfer and enhance VLM performance without retraining.
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/talo.png' alt="paper-1" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Do All Individual Layers Help? An Empirical Study of Task-Interfering Layers in Vision-Language Models](https://arxiv.org/abs/2602.01167)
-
-**Zhiming Liu**, Yujie Wei, Lei Feng, Xiu Su, Xiaobo Xia, Weili Guan, Zeke Xie, Shuo Yang
-
-- We identify task-interfering layers in vision-language models and propose a lightweight test-time intervention strategy that improves downstream few-shot reasoning without retraining.
-</div>
+<div class="publication-card first-author featured">
+  <div class="publication-card__layout">
+    <img src="images/talo.png" alt="TALO overview" class="pub-thumb">
+    <div>
+      <strong><a href="https://arxiv.org/abs/2602.01167">Do All Individual Layers Help? An Empirical Study of Task-Interfering Layers in Vision-Language Models</a></strong><br>
+      <i style="font-size:13px;"><span class="self-author">Zhiming Liu</span>, Yujie Wei, Lei Feng, Xiu Su, Xiaobo Xia, Weili Guan, Zeke Xie, Shuo Yang</i><br>
+      We identify task-interfering layers in vision-language models and propose a lightweight test-time intervention strategy that improves downstream few-shot reasoning without retraining.
+      <div class="pub-meta-row">
+        <span class="pub-venue">CVPR 2026</span>
+        <span class="pub-links"><a href="https://arxiv.org/abs/2602.01167"><em>[arXiv]</em></a></span>
+      </div>
+    </div>
+  </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/ttd.png' alt="paper-2" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Test-Time Distillation for Continual Model Adaptation](http://arxiv.org/abs/2506.02671)
-
-Xiao Chen<sup>†</sup>, Jiazhen Huang<sup>†</sup>, **Zhiming Liu**, Qinting Jiang, Fanding Huang, Jingyan Jiang, Zhi Wang
-
-- We propose a collaborative test-time distillation framework for continual model adaptation that improves robustness and generalization under realistic distribution shifts.
-- <sup>†</sup> indicates equal contribution (co-first authors).
+<div class="publication-card first-author">
+  <div class="publication-card__layout">
+    <img src="images/moon.png" alt="MOON overview" class="pub-thumb" style="object-fit: contain;">
+    <div>
+      <strong><a href="https://arxiv.org/abs/2607.15851v1">Von Mises-Fisher Mixture Model with Dynamic Shrinkage for Realistic Test-Time Transduction</a></strong><br>
+      <i style="font-size:13px;">Jiazhen Huang, <span class="self-author">Zhiming Liu</span>, Changhu Wang, Wei Ju, Ziyue Qiao, Xiao Luo</i><br>
+      We identify the brittleness of transductive methods under imbalanced distributions and propose MOON, a training-free, model-agnostic framework that dynamically adjusts shrinkage strength to mitigate negative transfer.
+      <div class="pub-meta-row">
+        <span class="pub-venue">ICML 2026</span>
+        <span class="pub-links"><a href="https://arxiv.org/abs/2607.15851v1"><em>[arXiv]</em></a></span>
+      </div>
+    </div>
+  </div>
 </div>
+
+<div class="publication-card first-author">
+  <div class="publication-card__layout">
+    <img src="images/ttd.png" alt="TTD overview" class="pub-thumb">
+    <div>
+      <strong><a href="http://arxiv.org/abs/2506.02671">Test-Time Distillation for Continual Model Adaptation</a></strong><br>
+      <i style="font-size:13px;">Xiao Chen<sup>†</sup>, Jiazhen Huang<sup>†</sup>, <span class="self-author">Zhiming Liu</span>, Qinting Jiang, Fanding Huang, Jingyan Jiang, Zhi Wang</i><br>
+      We propose a collaborative test-time distillation framework for continual model adaptation that improves robustness and generalization under realistic distribution shifts.<br>
+      <sup>†</sup> indicates equal contribution (co-first authors).
+      <div class="pub-meta-row">
+        <span class="pub-venue">CVPR 2026</span>
+        <span class="pub-links"><a href="http://arxiv.org/abs/2506.02671"><em>[arXiv]</em></a></span>
+      </div>
+    </div>
+  </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/adrl.png' alt="paper-1" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Adaptive Disentangled Representation Learning for Incomplete Multi-View Multi-Label Classification](https://arxiv.org/abs/2601.05785)
-
-Quanjiang Li<sup>†</sup>, **Zhiming Liu**<sup>†</sup>, TianxiangXu<sup>†</sup>, Tingjin Luo, Chenping Hou
-
-- We proposed *ADRL*, a novel framework that jointly addresses structural distortion and semantic ambiguity in incomplete multi-view settings by integrating label-guided feature disentanglement and category-aware embedding interaction.
-- <sup>†</sup> indicates equal contribution (co-first authors).
+<div class="publication-card first-author">
+  <div class="publication-card__layout">
+    <img src="images/ttabc.png" alt="TTABC overview" class="pub-thumb">
+    <div>
+      <strong><a href="https://arxiv.org/pdf/2606.14299">What Drives Test-Time Adaptation for CLIP? A Controlled Empirical Study from a Update Perspective</a></strong><br>
+      <i style="font-size:13px;">Jiazhen Huang<sup>†</sup>, Xiao Chen<sup>†</sup>, <span class="self-author">Zhiming Liu</span><sup>†</sup>, Yaru Sun, Jingyan Jiang, Zhi Wang</i><br>
+      We show that adaptation gains primarily arise from test-time evidence and reliable proxies rather than heavy optimization, and the most effective adaptation paradigm varies with the type of distribution shift.<br>
+      <sup>†</sup> indicates equal contribution (co-first authors).
+      <div class="pub-meta-row">
+        <span class="pub-venue">Under Review</span>
+        <span class="pub-links"><a href="https://arxiv.org/pdf/2606.14299"><em>[arXiv]</em></a></span>
+      </div>
+    </div>
+  </div>
 </div>
+
+<div class="publication-card first-author">
+  <div class="publication-card__layout">
+    <img src="images/adrl.png" alt="ADRL overview" class="pub-thumb">
+    <div>
+      <strong><a href="https://arxiv.org/abs/2601.05785">Adaptive Disentangled Representation Learning for Incomplete Multi-View Multi-Label Classification</a></strong><br>
+      <i style="font-size:13px;">Quanjiang Li<sup>†</sup>, <span class="self-author">Zhiming Liu</span><sup>†</sup>, Tianxiang Xu<sup>†</sup>, Tingjin Luo, Chenping Hou</i><br>
+      We proposed ADRL, a novel framework that jointly addresses structural distortion and semantic ambiguity in incomplete multi-view settings by integrating label-guided feature disentanglement and category-aware embedding interaction.<br>
+      <sup>†</sup> indicates equal contribution (co-first authors).
+      <div class="pub-meta-row">
+        <span class="pub-venue">Under Review</span>
+        <span class="pub-links"><a href="https://arxiv.org/abs/2601.05785"><em>[arXiv]</em></a></span>
+      </div>
+    </div>
+  </div>
 </div>
 
 # <i class="fas fa-award section-icon" aria-hidden="true"></i> Honors and Awards
-- 2024: Finalist Award in the Mathematical Contest in Modeling (MCM)
-- 2024: **Chinese National Scholarship**
-- 2024: First Prize Scholarship at Harbin Institute of Technology (Shenzhen)
-- 2025: National Second Prize, Global Campus Artificial Intelligence Algorithm Elite Competition 2025
-- 2025: **Top Ten Outstanding College Students of Harbin Institute of Technology (Shenzhen)**
-- 2025: First Prize Scholarship at Harbin Institute of Technology (Shenzhen)
+
+<section class="profile-list-section profile-list-section--awards" aria-label="Awards">
+  <ul class="profile-list">
+    <li class="profile-list__item">
+      <time class="profile-list__date" datetime="2025">2025</time>
+      <span class="profile-list__content">
+        <span class="profile-list__title">Top Ten Outstanding College Students of HITSZ</span>
+        <span class="profile-list__meta">Harbin Institute of Technology (Shenzhen)</span>
+      </span>
+    </li>
+    <li class="profile-list__item">
+      <time class="profile-list__date" datetime="2025">2025</time>
+      <span class="profile-list__content">
+        <span class="profile-list__title">National Second Prize, Global Campus AI Algorithm Elite Competition</span>
+        <span class="profile-list__meta">Competition Award</span>
+      </span>
+    </li>
+    <li class="profile-list__item">
+      <time class="profile-list__date" datetime="2025">2025</time>
+      <span class="profile-list__content">
+        <span class="profile-list__title">First Prize Scholarship</span>
+        <span class="profile-list__meta">Harbin Institute of Technology (Shenzhen)</span>
+      </span>
+    </li>
+    <li class="profile-list__item">
+      <time class="profile-list__date" datetime="2024">2024</time>
+      <span class="profile-list__content">
+        <span class="profile-list__title">Chinese National Scholarship</span>
+        <span class="profile-list__meta">Scholarship</span>
+      </span>
+    </li>
+    <li class="profile-list__item">
+      <time class="profile-list__date" datetime="2024">2024</time>
+      <span class="profile-list__content">
+        <span class="profile-list__title">First Prize Scholarship</span>
+        <span class="profile-list__meta">Harbin Institute of Technology (Shenzhen)</span>
+      </span>
+    </li>
+    <li class="profile-list__item">
+      <time class="profile-list__date" datetime="2024">2024</time>
+      <span class="profile-list__content">
+        <span class="profile-list__title">Finalist Award, Mathematical Contest in Modeling (MCM)</span>
+        <span class="profile-list__meta">Competition Award</span>
+      </span>
+    </li>
+  </ul>
+</section>
 
 # <i class="fas fa-microscope section-icon" aria-hidden="true"></i> Research Project
 <div class="project-list">
@@ -182,42 +275,34 @@ Quanjiang Li<sup>†</sup>, **Zhiming Liu**<sup>†</sup>, TianxiangXu<sup>†</
   </div>
 </div>
 
-
 # <i class="fas fa-briefcase section-icon" aria-hidden="true"></i> Experience
 
-  <div class="resume-list resume-list--timeline">
-  <div class="resume-item resume-item--timeline">
-    <div class="resume-logo">
-      <img src="/images/hkust.png" alt="HKUST logo" class="resume-logo__image">
-    </div>
-    <div class="resume-content">
-      <div class="resume-title"><strong>Hong Kong University of Science and Technology</strong></div>
-      <div class="resume-detail">Visiting Student</div>
-      <div class="resume-note"><strong>Advisor:</strong>  <strong>Prof. Song Guo</strong></div>
-      <div class="resume-period">April 2026 - Present</div>
+<div class="experience-container">
+  <div class="experience-card">
+    <img src="/images/hkust.png" alt="HKUST logo" class="experience-logo">
+    <div class="experience-info">
+      <strong>Hong Kong University of Science and Technology</strong><br>
+      April 2026 - Present<br>
+      Visiting Student<br>
+      Advisor: <a href="https://cse.hkust.edu.hk/~songguo/"><em>Prof. Song Guo</em></a>
     </div>
   </div>
-  <div class="resume-item resume-item--timeline">
-    <div class="resume-logo">
-      <img src="/images/thu.png" alt="Tsinghua University logo" class="resume-logo__image">
-    </div>
-    <div class="resume-content">
-      <div class="resume-title"><strong>Tsinghua University</strong></div>
-      <div class="resume-detail">Research Intern</div>
-      <div class="resume-note"><strong>Advisor:</strong>  <strong>Prof. Zhi Wang</strong></div>
-      <div class="resume-period">November 2025 - April 2026</div>
+  <div class="experience-card">
+    <img src="/images/thu.png" alt="Tsinghua University logo" class="experience-logo">
+    <div class="experience-info">
+      <strong>Tsinghua University</strong><br>
+      November 2025 - April 2026<br>
+      Research Intern<br>
+      Advisor: <a href="https://www.cs.tsinghua.edu.cn/info/1126/3576.htm"><em>Prof. Zhi Wang</em></a>
     </div>
   </div>
-
-  <div class="resume-item resume-item--timeline">
-    <div class="resume-logo">
-      <img src="/images/hit.png" alt="Harbin Institute of Technology logo" class="resume-logo__image">
-    </div>
-    <div class="resume-content">
-      <div class="resume-title"><strong>Harbin Institute of Technology (Shenzhen)</strong></div>
-      <div class="resume-detail">Research Intern</div>
-      <div class="resume-note"><strong>Advisor:</strong>  <strong>Prof. Shuo Yang</strong></div>
-      <div class="resume-period">March 2025 - April 2026</div>
+  <div class="experience-card">
+    <img src="/images/hit.png" alt="Harbin Institute of Technology logo" class="experience-logo">
+    <div class="experience-info">
+      <strong>Harbin Institute of Technology (Shenzhen)</strong><br>
+      March 2025 - April 2026<br>
+      Research Intern<br>
+      Advisor: <a href="https://faculty.hitsz.edu.cn/yangshuo"><em>Prof. Shuo Yang</em></a>
     </div>
   </div>
 </div>
