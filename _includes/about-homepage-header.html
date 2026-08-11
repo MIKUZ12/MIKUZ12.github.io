@@ -8,6 +8,18 @@
     .author__name {
         font-family: 'Arial Rounded MT Bold', 'Verdana', sans-serif !important;
         font-size: 15px;
+        font-weight: normal;
+    }
+
+    /* Only headings and explicitly bold elements use the bold weight */
+    .page__content p,
+    .page__content li,
+    .page__content i,
+    .page__content span:not(.self-author):not(.pub-venue):not(.profile-list__title):not(.profile-list__date),
+    .experience-info,
+    .publication-card > .publication-card__layout > div,
+    .pub-meta-row {
+        font-weight: normal;
     }
 
     .main-heading {
@@ -17,13 +29,13 @@
         margin-bottom: 1.5rem;
     }
     .profile-list-section {
-        --profile-accent: #6f86a6;
-        --profile-accent-rgb: 111, 134, 166;
+        --profile-accent: #c97e5e;
+        --profile-accent-rgb: 201, 126, 94;
         margin: 8px 0 26px;
     }
     .profile-list-section--awards {
-        --profile-accent: #bf8192;
-        --profile-accent-rgb: 191, 129, 146;
+        --profile-accent: #c97e5e;
+        --profile-accent-rgb: 201, 126, 94;
     }
     .profile-list {
         display: grid;
@@ -148,6 +160,14 @@
     .pub-badge::before { content: ""; width: 0.45em; height: 0.45em; border-radius: 999px; background: currentColor; opacity: 0.75; }
     .pub-links { display: inline-flex; align-items: center; gap: 9px; }
     .pub-links a { white-space: nowrap; }
+    .pub-body { display: flex; flex-direction: column; gap: 0; min-width: 0; }
+    .pub-body p { margin: 0 0 0.45rem 0; line-height: 1.5; }
+    .pub-body p:last-child { margin-bottom: 0; }
+    .pub-title { font-weight: normal; }
+    .pub-title strong { font-weight: bold; }
+    .pub-authors { font-size: 0.88rem; color: #6b7280; font-weight: normal; }
+    .pub-desc { font-weight: normal; font-size: 0.93rem; color: #5f6368; }
+    .pub-note { font-size: 0.82rem; color: #9a9ea5; font-weight: normal; }
     @media (max-width: 767px) {
         .main-heading { font-size: clamp(1.55rem, 7vw, 2rem); line-height: 1.25; margin-bottom: 1.25rem; }
         .experience-container { grid-template-columns: minmax(0, 1fr); gap: 12px; }
