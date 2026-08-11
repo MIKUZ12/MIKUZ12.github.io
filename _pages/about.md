@@ -25,8 +25,8 @@ My previous research focuses on robust and reliable multimodal model adaptation 
 
 I am currently diving into **world models and embodied AI**, aiming to help build more intelligent and capable robotic systems.
 
-News
-----
+# <i class="fas fa-newspaper section-icon" aria-hidden="true"></i> News
+
 <section class="profile-list-section profile-list-section--news" aria-label="Latest news">
   <ul class="profile-list">
     <li class="profile-list__item">
