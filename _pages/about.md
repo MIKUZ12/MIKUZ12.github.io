@@ -66,7 +66,7 @@ I am currently diving into **world models and embodied AI**, aiming to help buil
   <div class="publication-card__layout">
     <img src="images/afip.png" alt="AFIP overview" class="pub-thumb" style="object-fit: contain;">
     <div class="pub-body">
-      <p class="pub-title"><strong>Correcting Visual Blur Induced by Attention Distraction to Reduce Hallucinations: Algorithm and Theory</a></strong></p>
+      <p class="pub-title"><strong>Correcting Visual Blur Induced by Attention Distraction to Reduce Hallucinations: Algorithm and Theory</strong></p>
       <p class="pub-authors"><i>Quanjiang Li<sup>†</sup>, <span class="self-author">Zhiming Liu</span><sup>†</sup>, Wei Luo, Tingjin Luo, Chenping Hou</i></p>
       <p class="pub-desc">We identify the link between human-like attention distraction and object hallucinations in multimodal models, and propose AFIP, a training-free method that corrects spatial and temporal attention dispersion to enhance visual grounding without additional training.</p>
       <p class="pub-note"><sup>†</sup> indicates equal contribution (co-first authors).</p>
@@ -83,7 +83,7 @@ I am currently diving into **world models and embodied AI**, aiming to help buil
   <div class="publication-card__layout">
     <img src="images/talo.png" alt="TALO overview" class="pub-thumb">
     <div class="pub-body">
-      <p class="pub-title"><strong>Do All Individual Layers Help? An Empirical Study of Task-Interfering Layers in Vision-Language Models</a></strong></p>
+      <p class="pub-title"><strong>Do All Individual Layers Help? An Empirical Study of Task-Interfering Layers in Vision-Language Models</strong></p>
       <p class="pub-authors"><i><span class="self-author">Zhiming Liu</span>, Yujie Wei, Lei Feng, Xiu Su, Xiaobo Xia, Weili Guan, Zeke Xie, Shuo Yang</i></p>
       <p class="pub-desc">We identify task-interfering layers in vision-language models and propose a lightweight test-time intervention strategy that improves downstream few-shot reasoning without retraining.</p>
       <div class="pub-meta-row">
@@ -100,7 +100,7 @@ I am currently diving into **world models and embodied AI**, aiming to help buil
   <div class="publication-card__layout">
     <img src="images/moon.png" alt="MOON overview" class="pub-thumb" style="object-fit: contain;">
     <div class="pub-body">
-      <p class="pub-title"><strong>Von Mises-Fisher Mixture Model with Dynamic Shrinkage for Realistic Test-Time Transduction</a></strong></p>
+      <p class="pub-title"><strong>Von Mises-Fisher Mixture Model with Dynamic Shrinkage for Realistic Test-Time Transduction</strong></p>
       <p class="pub-authors"><i>Jiazhen Huang, <span class="self-author">Zhiming Liu</span>, Changhu Wang, Wei Ju, Ziyue Qiao, Xiao Luo</i></p>
       <p class="pub-desc">We identify the brittleness of transductive methods under imbalanced distributions and propose MOON, a training-free, model-agnostic framework that dynamically adjusts shrinkage strength to mitigate negative transfer.</p>
       <div class="pub-meta-row">
@@ -116,7 +116,7 @@ I am currently diving into **world models and embodied AI**, aiming to help buil
   <div class="publication-card__layout">
     <img src="images/ttd.png" alt="TTD overview" class="pub-thumb">
     <div class="pub-body">
-      <p class="pub-title"><strong>Test-Time Distillation for Continual Model Adaptation</a></strong></p>
+      <p class="pub-title"><strong>Test-Time Distillation for Continual Model Adaptation</strong></p>
       <p class="pub-authors"><i>Xiao Chen<sup>†</sup>, Jiazhen Huang<sup>†</sup>, <span class="self-author">Zhiming Liu</span>, Qinting Jiang, Fanding Huang, Jingyan Jiang, Zhi Wang</i></p>
       <p class="pub-desc">We propose a collaborative test-time distillation framework for continual model adaptation that improves robustness and generalization under realistic distribution shifts.</p>
       <p class="pub-note"><sup>†</sup> indicates equal contribution (co-first authors).</p>
@@ -133,7 +133,7 @@ I am currently diving into **world models and embodied AI**, aiming to help buil
   <div class="publication-card__layout">
     <img src="images/ttabc.png" alt="TTABC overview" class="pub-thumb">
     <div class="pub-body">
-      <p class="pub-title"><strong>What Drives Test-Time Adaptation for CLIP? A Controlled Empirical Study from a Update Perspective</a></strong></p>
+      <p class="pub-title"><strong>What Drives Test-Time Adaptation for CLIP? A Controlled Empirical Study from a Update Perspective</strong></p>
       <p class="pub-authors"><i>Jiazhen Huang<sup>†</sup>, Xiao Chen<sup>†</sup>, <span class="self-author">Zhiming Liu</span><sup>†</sup>, Yaru Sun, Jingyan Jiang, Zhi Wang</i></p>
       <p class="pub-desc">We show that adaptation gains primarily arise from test-time evidence and reliable proxies rather than heavy optimization, and the most effective adaptation paradigm varies with the type of distribution shift.</p>
       <p class="pub-note"><sup>†</sup> indicates equal contribution (co-first authors).</p>
@@ -150,7 +150,7 @@ I am currently diving into **world models and embodied AI**, aiming to help buil
   <div class="publication-card__layout">
     <img src="images/adrl.png" alt="ADRL overview" class="pub-thumb">
     <div class="pub-body">
-      <p class="pub-title"><strong><a href="https://arxiv.org/abs/2601.05785">Adaptive Disentangled Representation Learning for Incomplete Multi-View Multi-Label Classification</a></strong></p>
+      <p class="pub-title"><strong>Adaptive Disentangled Representation Learning for Incomplete Multi-View Multi-Label Classification</strong></p>
       <p class="pub-authors"><i>Quanjiang Li<sup>†</sup>, <span class="self-author">Zhiming Liu</span><sup>†</sup>, Tianxiang Xu<sup>†</sup>, Tingjin Luo, Chenping Hou</i></p>
       <p class="pub-desc">We proposed ADRL, a novel framework that jointly addresses structural distortion and semantic ambiguity in incomplete multi-view settings by integrating label-guided feature disentanglement and category-aware embedding interaction.</p>
       <p class="pub-note"><sup>†</sup> indicates equal contribution (co-first authors).</p>
