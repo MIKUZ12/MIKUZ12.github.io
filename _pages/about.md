@@ -39,16 +39,10 @@ I am currently diving into **world models and embodied AI**, aiming to help buil
     <li class="profile-list__item">
       <time class="profile-list__date" datetime="2026-02">Feb 2026</time>
       <span class="profile-list__content">
-        <span class="profile-list__title">Paper "Do All Individual Layers Help?" accepted</span>
+        <span class="profile-list__title">Two papers accepted by CVPR 2026</span>
         <span class="profile-list__meta">CVPR 2026 Findings</span>
       </span>
     </li>
-    <li class="profile-list__item">
-      <time class="profile-list__date" datetime="2026-02">Feb 2026</time>
-      <span class="profile-list__content">
-        <span class="profile-list__title">Paper "Test-Time Distillation for Continual Model Adaptation" accepted</span>
-        <span class="profile-list__meta">CVPR 2026 Findings</span>
-      </span>
     </li>
     <li class="profile-list__item">
       <time class="profile-list__date" datetime="2025-11">Nov 2025</time>
@@ -212,7 +206,7 @@ I am currently diving into **world models and embodied AI**, aiming to help buil
   </ul>
 </section>
 
-# <i class="fas fa-microscope section-icon" aria-hidden="true"></i> Research Project
+<!-- # <i class="fas fa-microscope section-icon" aria-hidden="true"></i> Research Project
 <div class="project-list">
   <div class="project-item">
     <div class="project-period">May 2025 - Nov 2025</div>
@@ -259,7 +253,7 @@ I am currently diving into **world models and embodied AI**, aiming to help buil
     <div class="project-title">Deterministic Transition State Prediction via Flow Matching and Equivariant Geometric Learning</div>
     <div class="project-role">Core Developer</div>
   </div>
-</div>
+</div> -->
 
 # <i class="fas fa-graduation-cap section-icon" aria-hidden="true"></i> Educations
 <div class="resume-list resume-list--education">
