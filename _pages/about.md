@@ -31,24 +31,28 @@ I am currently diving into **world models and embodied AI**, aiming to help buil
       <time class="profile-list__date" datetime="2026-05">May 2026</time>
       <span class="profile-list__content">
         <span class="profile-list__title">🎉🎉 Two papers accepted by ICML 2026</span>
+        <span class="profile-list__meta">ICML 2026</span>
       </span>
     </li>
     <li class="profile-list__item">
       <time class="profile-list__date" datetime="2026-02">Feb 2026</time>
       <span class="profile-list__content">
         <span class="profile-list__title">🎉🎉 Two papers accepted by CVPR 2026</span>
+        <span class="profile-list__meta">CVPR 2026 Findings</span>
       </span>
     </li>
     <li class="profile-list__item">
       <time class="profile-list__date" datetime="2025-11">Nov 2025</time>
       <span class="profile-list__content">
         <span class="profile-list__title">🎉🎉 Top Ten Outstanding College Students of HITSZ</span>
+        <span class="profile-list__meta">Harbin Institute of Technology (Shenzhen)</span>
       </span>
     </li>
     <li class="profile-list__item">
       <time class="profile-list__date" datetime="2024-10">Oct 2024</time>
       <span class="profile-list__content">
         <span class="profile-list__title">🎉🎉 Chinese National Scholarship</span>
+        <span class="profile-list__meta">Scholarship</span>
       </span>
     </li>
   </ul>
