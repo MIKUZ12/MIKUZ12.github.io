@@ -31,7 +31,7 @@ I am currently diving into **world models and embodied AI**, aiming to help buil
       <time class="profile-list__date" datetime="2026-05">Sep 2026</time>
       <span class="profile-list__content">
         <span class="profile-list__title">🎉🎉 One paper accepted by NeurIPS 2026</span>
-        <span class="profile-list__meta">NIPS 2026</span>
+        <span class="profile-list__meta">NeurIPS 2026</span>
       </span>
     </li>
     <li class="profile-list__item">
