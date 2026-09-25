@@ -27,6 +27,13 @@ I am currently diving into **world models and embodied AI**, aiming to help buil
 
 <section class="profile-list-section profile-list-section--news" aria-label="Latest news">
   <ul class="profile-list">
+  <li class="profile-list__item">
+      <time class="profile-list__date" datetime="2026-05">Sep 2026</time>
+      <span class="profile-list__content">
+        <span class="profile-list__title">🎉🎉 One paper accepted by NIPS 2026</span>
+        <span class="profile-list__meta">NIPS 2026</span>
+      </span>
+    </li>
     <li class="profile-list__item">
       <time class="profile-list__date" datetime="2026-05">May 2026</time>
       <span class="profile-list__content">
@@ -69,7 +76,7 @@ I am currently diving into **world models and embodied AI**, aiming to help buil
       <p class="pub-desc">We show that adaptation gains primarily arise from test-time evidence and reliable proxies rather than heavy optimization, and the most effective adaptation paradigm varies with the type of distribution shift.</p>
       <p class="pub-note"><sup>†</sup> indicates equal contribution (co-first authors).</p>
       <div class="pub-meta-row">
-        <span class="pub-venue">Under Review</span>
+        <span class="pub-venue">NIPS 2026</span>
         <span class="pub-links"><a href="https://arxiv.org/pdf/2606.14299"><em>[arXiv]</em></a></span>
         <span class="pub-links"><a href="https://github.com/walawalagoose/TTABC"><em>[code]</em></a></span>
       </div>
