@@ -41,10 +41,10 @@
         max-height: 220px;
         overflow-y: auto;
         overscroll-behavior-y: contain;
-        padding: 8px;
-        background: rgba(249, 247, 244, 0.82);
-        border: 1px solid rgba(201, 126, 94, 0.12);
-        border-radius: 8px;
+        padding: 14px 18px;
+        background: #f7f7f7;
+        border: 0;
+        border-radius: 10px;
         scrollbar-width: thin;
         scrollbar-color: rgba(201, 126, 94, 0.55) transparent;
     }
@@ -54,6 +54,33 @@
         background: rgba(201, 126, 94, 0.55);
         border-radius: 999px;
     }
+    .profile-list-section--news .profile-list { gap: 8px; }
+    .profile-list-section--news .profile-list__item {
+        grid-template-columns: 118px minmax(0, 1fr);
+        gap: 12px;
+        padding: 3px 10px;
+        background: transparent;
+        color: #4f545b;
+    }
+    .profile-list-section--news .profile-list__item::before { display: none; }
+    .profile-list-section--news .profile-list__date {
+        color: #ca6f6f;
+        font-size: 1rem;
+        font-style: italic;
+        font-weight: 700;
+        letter-spacing: 0;
+    }
+    .profile-list-section--news .profile-list__content {
+        display: block;
+        align-self: center;
+    }
+    .profile-list-section--news .profile-list__title {
+        color: #4f545b;
+        font-size: 1rem;
+        font-weight: 700;
+        line-height: 1.45;
+    }
+    .profile-list-section--news .profile-list__meta { display: none; }
     .profile-list {
         display: grid;
         gap: 6px;
@@ -197,6 +224,14 @@
         .profile-list__date { font-size: 0.78rem; }
         .profile-list__title { font-size: 0.92rem; }
         .profile-list__meta { font-size: 0.82rem; }
+        .profile-list-section--news { padding: 12px 10px; }
+        .profile-list-section--news .profile-list__item {
+            grid-template-columns: 82px minmax(0, 1fr);
+            gap: 8px;
+            padding: 4px 6px;
+        }
+        .profile-list-section--news .profile-list__date { font-size: 0.86rem; }
+        .profile-list-section--news .profile-list__title { font-size: 0.9rem; }
     }
 </style>
 

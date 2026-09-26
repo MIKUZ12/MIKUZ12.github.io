@@ -28,35 +28,35 @@ I am currently diving into **world models and embodied AI**, aiming to help buil
 <section class="profile-list-section profile-list-section--news" aria-label="Latest news">
   <ul class="profile-list">
   <li class="profile-list__item">
-      <time class="profile-list__date" datetime="2026-05">Sep 2026</time>
+      <time class="profile-list__date" datetime="2026-09">2026.09</time>
       <span class="profile-list__content">
         <span class="profile-list__title">🎉🎉 One paper accepted by NeurIPS 2026</span>
         <span class="profile-list__meta">NeurIPS 2026</span>
       </span>
     </li>
     <li class="profile-list__item">
-      <time class="profile-list__date" datetime="2026-05">May 2026</time>
+      <time class="profile-list__date" datetime="2026-05">2026.05</time>
       <span class="profile-list__content">
         <span class="profile-list__title">🎉🎉 Two papers accepted by ICML 2026</span>
         <span class="profile-list__meta">ICML 2026</span>
       </span>
     </li>
     <li class="profile-list__item">
-      <time class="profile-list__date" datetime="2026-02">Feb 2026</time>
+      <time class="profile-list__date" datetime="2026-02">2026.02</time>
       <span class="profile-list__content">
         <span class="profile-list__title">🎉🎉 Two papers accepted by CVPR 2026</span>
         <span class="profile-list__meta">CVPR 2026 Findings</span>
       </span>
     </li>
     <li class="profile-list__item">
-      <time class="profile-list__date" datetime="2025-11">Nov 2025</time>
+      <time class="profile-list__date" datetime="2025-11">2025.11</time>
       <span class="profile-list__content">
         <span class="profile-list__title">🎉🎉 Top Ten Outstanding College Students of HITSZ</span>
         <span class="profile-list__meta">Harbin Institute of Technology (Shenzhen)</span>
       </span>
     </li>
     <li class="profile-list__item">
-      <time class="profile-list__date" datetime="2024-10">Oct 2024</time>
+      <time class="profile-list__date" datetime="2024-10">2024.10</time>
       <span class="profile-list__content">
         <span class="profile-list__title">🎉🎉 Chinese National Scholarship</span>
         <span class="profile-list__meta">Scholarship</span>
