@@ -65,6 +65,38 @@ I am currently diving into **world models and embodied AI**, aiming to help buil
   </ul>
 </section>
 
+# <i class="fas fa-briefcase section-icon" aria-hidden="true"></i> Experience
+
+<div class="experience-container">
+  <div class="experience-card">
+    <img src="/images/hkust.png" alt="HKUST logo" class="experience-logo">
+    <div class="experience-info">
+      <strong>Hong Kong University of Science and Technology</strong><br>
+      <em>April 2026 - Present</em><br>
+      Visiting Student<br>
+      Advisor: <a href="https://cse.hkust.edu.hk/~songguo/"><em>Prof. Song Guo</em></a>
+    </div>
+  </div>
+  <div class="experience-card">
+    <img src="/images/thu.png" alt="Tsinghua University logo" class="experience-logo">
+    <div class="experience-info">
+      <strong>Tsinghua University</strong><br>
+      <em>November 2025 - April 2026</em><br>
+      Research Intern<br>
+      Advisor: <a href="https://www.cs.tsinghua.edu.cn/info/1126/3576.htm"><em>Prof. Zhi Wang</em></a>
+    </div>
+  </div>
+  <div class="experience-card">
+    <img src="/images/hit.png" alt="Harbin Institute of Technology logo" class="experience-logo">
+    <div class="experience-info">
+      <strong>Harbin Institute of Technology (Shenzhen)</strong><br>
+      <em>March 2025 - April 2026</em><br>
+      Research Intern<br>
+      Advisor: <a href="https://faculty.hitsz.edu.cn/yangshuo"><em>Prof. Shuo Yang</em></a>
+    </div>
+  </div>
+</div>
+
 # <i class="fas fa-book-open section-icon" aria-hidden="true"></i> Publications
 
 <div class="publication-card first-author">
@@ -275,38 +307,6 @@ I am currently diving into **world models and embodied AI**, aiming to help buil
       <div class="resume-title"><strong>Harbin Institute of Technology (Shenzhen)</strong></div>
       <div class="resume-detail">Bachelor of Engineering in Automation</div>
       <div class="resume-period">2023 - 2027</div>
-    </div>
-  </div>
-</div>
-
-# <i class="fas fa-briefcase section-icon" aria-hidden="true"></i> Experience
-
-<div class="experience-container">
-  <div class="experience-card">
-    <img src="/images/hkust.png" alt="HKUST logo" class="experience-logo">
-    <div class="experience-info">
-      <strong>Hong Kong University of Science and Technology</strong><br>
-      April 2026 - Present<br>
-      Visiting Student<br>
-      Advisor: <a href="https://cse.hkust.edu.hk/~songguo/"><em>Prof. Song Guo</em></a>
-    </div>
-  </div>
-  <div class="experience-card">
-    <img src="/images/thu.png" alt="Tsinghua University logo" class="experience-logo">
-    <div class="experience-info">
-      <strong>Tsinghua University</strong><br>
-      November 2025 - April 2026<br>
-      Research Intern<br>
-      Advisor: <a href="https://www.cs.tsinghua.edu.cn/info/1126/3576.htm"><em>Prof. Zhi Wang</em></a>
-    </div>
-  </div>
-  <div class="experience-card">
-    <img src="/images/hit.png" alt="Harbin Institute of Technology logo" class="experience-logo">
-    <div class="experience-info">
-      <strong>Harbin Institute of Technology (Shenzhen)</strong><br>
-      March 2025 - April 2026<br>
-      Research Intern<br>
-      Advisor: <a href="https://faculty.hitsz.edu.cn/yangshuo"><em>Prof. Shuo Yang</em></a>
     </div>
   </div>
 </div>
