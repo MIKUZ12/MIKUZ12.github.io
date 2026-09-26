@@ -83,7 +83,7 @@ I am currently diving into **world models and embodied AI**, aiming to help buil
       <strong>Tsinghua University</strong><br>
       <em>November 2025 - April 2026</em><br>
       Research Intern<br>
-      Advisor: <a href="https://www.cs.tsinghua.edu.cn/info/1126/3576.htm"><em>Prof. Zhi Wang</em></a>
+      Advisor: <a href="https://mmlab-sigs.github.io/groups/zwang/"><em>Prof. Zhi Wang</em></a>
     </div>
   </div>
   <div class="experience-card">
@@ -92,7 +92,7 @@ I am currently diving into **world models and embodied AI**, aiming to help buil
       <strong>Harbin Institute of Technology (Shenzhen)</strong><br>
       <em>March 2025 - April 2026</em><br>
       Research Intern<br>
-      Advisor: <a href="https://faculty.hitsz.edu.cn/yangshuo"><em>Prof. Shuo Yang</em></a>
+      Advisor: <a href="https://homepage.hit.edu.cn/yangshuohit"><em>Prof. Shuo Yang</em></a>
     </div>
   </div>
 </div>

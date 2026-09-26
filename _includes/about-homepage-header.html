@@ -36,6 +36,30 @@
     .profile-list-section--awards {
         --profile-accent: #c97e5e;
         --profile-accent-rgb: 201, 126, 94;
+        padding: 4px 0;
+    }
+    .profile-list-section--awards .profile-list { gap: 8px; }
+    .profile-list-section--awards .profile-list__item {
+        grid-template-columns: 72px minmax(0, 1fr);
+        gap: 12px;
+        padding: 5px 6px;
+        background: transparent;
+    }
+    .profile-list-section--awards .profile-list__item::before { display: none; }
+    .profile-list-section--awards .profile-list__date {
+        color: #ca6f6f;
+        font-size: 0.92rem;
+        font-style: italic;
+        letter-spacing: 0;
+    }
+    .profile-list-section--awards .profile-list__title {
+        color: #454a50;
+        font-size: 0.96rem;
+        line-height: 1.4;
+    }
+    .profile-list-section--awards .profile-list__meta {
+        color: #8a8f96;
+        font-size: 0.82rem;
     }
     .profile-list-section--news {
         max-height: 220px;
@@ -232,6 +256,14 @@
         }
         .profile-list-section--news .profile-list__date { font-size: 0.86rem; }
         .profile-list-section--news .profile-list__title { font-size: 0.9rem; }
+        .profile-list-section--awards .profile-list__item {
+            grid-template-columns: 54px minmax(0, 1fr);
+            gap: 8px;
+            padding: 5px 2px;
+        }
+        .profile-list-section--awards .profile-list__date { font-size: 0.82rem; }
+        .profile-list-section--awards .profile-list__title { font-size: 0.9rem; }
+        .profile-list-section--awards .profile-list__meta { font-size: 0.78rem; }
     }
 </style>
 
