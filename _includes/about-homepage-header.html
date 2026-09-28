@@ -1,5 +1,4 @@
 <style>
-    @import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
     @import url('https://fonts.googleapis.com/css2?family=Arial+Rounded+MT+Bold&display=swap');
 
     body,
@@ -22,12 +21,6 @@
         font-weight: normal;
     }
 
-    .main-heading {
-        font-family: 'Permanent Marker', cursive;
-        text-align: center;
-        color: var(--section-title, #c87d5e);
-        margin-bottom: 1.5rem;
-    }
     .profile-list-section {
         --profile-accent: #c97e5e;
         --profile-accent-rgb: 201, 126, 94;
@@ -237,7 +230,6 @@
     .pub-desc { font-weight: normal; font-size: 0.93rem; color: #5f6368; }
     .pub-note { font-size: 0.82rem; color: #9a9ea5; font-weight: normal; }
     @media (max-width: 767px) {
-        .main-heading { font-size: clamp(1.55rem, 7vw, 2rem); line-height: 1.25; margin-bottom: 1.25rem; }
         .experience-container { gap: 12px; }
         .experience-card { align-items: flex-start; }
         .experience-logo { width: 52px; height: 52px; flex-basis: 52px; margin-right: 14px; }
@@ -267,4 +259,4 @@
     }
 </style>
 
-<h1 class="main-heading">Hi there 👋 Welcome to my Homepage!</h1>
+{% include particle-hero.html %}
