@@ -111,6 +111,7 @@ I am currently diving into **world models and embodied AI**, aiming to help buil
         <span class="pub-venue">NeurIPS 2026</span>
         <span class="pub-links"><a href="https://arxiv.org/pdf/2606.14299"><em>[arXiv]</em></a></span>
         <span class="pub-links"><a href="https://github.com/walawalagoose/TTABC"><em>[code]</em></a></span>
+        <span class="pub-links"><a href="https://walawalagoose.github.io/TTABC/"><em>[project page]</em></a></span>
       </div>
     </div>
   </div>
@@ -160,7 +161,7 @@ I am currently diving into **world models and embodied AI**, aiming to help buil
         <span class="pub-venue">CVPR 2026</span>
         <span class="pub-links"><a href="https://arxiv.org/abs/2602.01167"><em>[arXiv]</em></a></span>
         <span class="pub-links"><a href="https://github.com/MIKUZ12/Do-all-individual-layers-help"><em>[code]</em></a></span>
-        <span class="pub-links"><a href="https://mikuz12.github.io/Do_All_Individual_Layers_Help/"><em>[website]</em></a></span>
+        <span class="pub-links"><a href="https://mikuz12.github.io/Do_All_Individual_Layers_Help/"><em>[project page]</em></a></span>
       </div>
     </div>
   </div>
