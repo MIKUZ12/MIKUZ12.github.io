@@ -150,6 +150,10 @@ body {
     background-color: var(--site-bg);
 }
 
+#main {
+    padding-bottom: clamp(72px, 8vw, 120px);
+}
+
 body,
 .sidebar,
 .page__content,
