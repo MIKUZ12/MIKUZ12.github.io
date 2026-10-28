@@ -30,7 +30,7 @@ I am currently diving into **world models and embodied AI**, aiming to help buil
     <li class="profile-list__item">
       <time class="profile-list__date" datetime="2026-10">2026.10</time>
       <span class="profile-list__content">
-        <span class="profile-list__title">🎉🎉 Admitted to the PhD program in ECE at HKUST! Excited to begin my PhD journey in 2027.</span>
+        <span class="profile-list__title">🎉🎉 I'll join HKUST ECE as a PhD student in 2027!</span>
         <span class="profile-list__meta">Hong Kong University of Science and Technology</span>
       </span>
     </li>
@@ -58,14 +58,14 @@ I am currently diving into **world models and embodied AI**, aiming to help buil
     <li class="profile-list__item">
       <time class="profile-list__date" datetime="2025-11">2025.11</time>
       <span class="profile-list__content">
-        <span class="profile-list__title">🎉🎉 Top Ten Outstanding College Students of HITSZ</span>
+        <span class="profile-list__title">🎉🎉 I was named one of HITSZ's Top Ten Outstanding College Students!</span>
         <span class="profile-list__meta">Harbin Institute of Technology (Shenzhen)</span>
       </span>
     </li>
     <li class="profile-list__item">
       <time class="profile-list__date" datetime="2024-10">2024.10</time>
       <span class="profile-list__content">
-        <span class="profile-list__title">🎉🎉 Chinese National Scholarship</span>
+        <span class="profile-list__title">🎉🎉 I received the Chinese National Scholarship!</span>
         <span class="profile-list__meta">Scholarship</span>
       </span>
     </li>
@@ -314,6 +314,7 @@ I am currently diving into **world models and embodied AI**, aiming to help buil
     <div class="resume-content">
       <div class="resume-title"><strong>Hong Kong University of Science and Technology</strong></div>
       <div class="resume-detail">PhD in Electronic and Computer Engineering (ECE)</div>
+      <div class="resume-detail">Supervised by <a href="https://cse.hkust.edu.hk/~songguo/">Prof. Song Guo</a></div>
       <div class="resume-period">2027 - 2031 (Expected)</div>
     </div>
   </div>
