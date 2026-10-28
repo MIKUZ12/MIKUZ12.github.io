@@ -314,7 +314,7 @@ I am currently diving into **world models and embodied AI**, aiming to help buil
     <div class="resume-content">
       <div class="resume-title"><strong>Hong Kong University of Science and Technology</strong></div>
       <div class="resume-detail">PhD in Electronic and Computer Engineering (ECE)</div>
-      <div class="resume-detail">Supervised by <a href="https://cse.hkust.edu.hk/~songguo/">Prof. Song Guo</a></div>
+      <div class="resume-detail">Supervised by <a href="https://cse.hkust.edu.hk/~songguo/"><em>Prof. Song Guo</em></a></div>
       <div class="resume-period">2027 - 2031 (Expected)</div>
     </div>
   </div>
