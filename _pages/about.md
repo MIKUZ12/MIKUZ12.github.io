@@ -27,6 +27,13 @@ I am currently diving into **world models and embodied AI**, aiming to help buil
 
 <section class="profile-list-section profile-list-section--news" aria-label="Latest news">
   <ul class="profile-list">
+    <li class="profile-list__item">
+      <time class="profile-list__date" datetime="2026-10">2026.10</time>
+      <span class="profile-list__content">
+        <span class="profile-list__title">🎉🎉 Admitted to the PhD program in ECE at HKUST! Excited to begin my PhD journey in 2027.</span>
+        <span class="profile-list__meta">Hong Kong University of Science and Technology</span>
+      </span>
+    </li>
   <li class="profile-list__item">
       <time class="profile-list__date" datetime="2026-09">2026.09</time>
       <span class="profile-list__content">
@@ -300,6 +307,16 @@ I am currently diving into **world models and embodied AI**, aiming to help buil
 
 # <i class="fas fa-graduation-cap section-icon" aria-hidden="true"></i> Educations
 <div class="resume-list resume-list--education">
+  <div class="resume-item">
+    <div class="resume-logo resume-logo--education">
+      <img src="/images/hkust.png" alt="HKUST logo" class="resume-logo__image">
+    </div>
+    <div class="resume-content">
+      <div class="resume-title"><strong>Hong Kong University of Science and Technology</strong></div>
+      <div class="resume-detail">PhD in Electronic and Computer Engineering (ECE)</div>
+      <div class="resume-period">2027 - 2031 (Expected)</div>
+    </div>
+  </div>
   <div class="resume-item">
     <div class="resume-logo resume-logo--education">
       <img src="/images/hit.png" alt="Harbin Institute of Technology logo" class="resume-logo__image">
